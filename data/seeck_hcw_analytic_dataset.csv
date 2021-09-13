@@ -1,0 +1,693 @@
+age,workstream,od_ratio,spikepos1,sex,site,cadre,cadre_other,previous_swab,prev_swab_result,added_notes,prior_fever,prior_soar_throat,prior_cough,prior_shortness_breath,prior_running_nose,fever,sore_throat,cough,short_breath,runny_nose,other_symptom,hypert,diabetes,other_chronic_cond,samples___1,samples___2,samples___3,visit_questionnaire_complete,date_prev_swab,dob,datecollect,other_sympt,any_current_symptom,prior_other_symptom,any_prior_symptom,site_busia,age_cat
+49,KNH-HCW-0176-1,.6042065,NEGATIVE,female,NBI,Other,HEALTH INFORMATION OFFICER,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,25nov1970,26aug2020,0,0,0,0,,40-49
+46,KNH-HCW-0068-1,3.3933983,POSITIVE,female,NBI,Pharmacy,PHARMACIST,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,02feb1974,10aug2020,0,0,0,0,,40-49
+27,KNH-HCW-0052-1,2.6466451,POSITIVE,male,NBI,Doctor,,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,02feb1993,10aug2020,0,0,0,0,,18-29
+29,KNH-HCW-0066-1,.70238101,NEGATIVE,female,NBI,Support Staff,PATIENT PORTER,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,16apr1991,10aug2020,0,0,0,0,,18-29
+27,KNH-HCW-0023-1,.99228609,NEGATIVE,female,NBI,Doctor,,no_prev_swab,,,0,0,0,0,0,0,0,0,0,0,,0,0,,0,0,1,2,,17dec1992,04aug2020,0,0,0,0,,18-29
+27,KNH-HCW-0189-1,.65073293,NEGATIVE,female,NBI,Nurse,,prev_swab_taken,Negative,NONE,0,0,0,0,0,0,1,0,0,1,NONE,0,0,N/A,1,1,1,2,15jun2020,18aug1993,15jun2020,0,2,0,0,,18-29
+34,KNH-HCW-0043-1,1.0068928,NEGATIVE,female,NBI,Doctor,,no_prev_swab,,,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,23jul1986,06aug2020,0,0,0,0,,30-39
+26,KNH-HCW-0073-1,1.0944928,NEGATIVE,female,NBI,Doctor,,,,NONE,0,0,0,0,0,0,0,,0,0,NONE,0,0,NONE,0,0,0,0,,20sep1993,,0,0,0,0,,18-29
+33,KNH-HCW-0184-1,12.743786,POSITIVE,female,NBI,Support Staff,SUPPORT STAFF,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,ASTHMA,0,0,1,2,,21aug1987,26aug2020,0,0,0,0,,30-39
+22,KNH-HCW-0128-1,.87499994,NEGATIVE,male,NBI,Support Staff,SUPPORT STAFF,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,08mar1998,20aug2020,0,0,0,0,,18-29
+28,KNH-HCW-0106-1,1.1901162,NEGATIVE,male,NBI,Doctor,,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,18nov1991,19aug2020,0,0,0,0,,18-29
+32,KNH-HCW-0090-1,2.6243477,POSITIVE,male,NBI,Doctor,,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,26mar1988,18aug2020,0,0,0,0,,30-39
+100,KNH-HCW-0054-1,2.8252163,POSITIVE,female,NBI,Doctor,,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,31jul1920,10aug2020,0,0,0,0,,>60
+100,KNH-HCW-0134-1,1.0261627,NEGATIVE,female,NBI,Other,HEALTH INFO. OFFICER,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,17jan1920,20aug2020,0,0,0,0,,>60
+27,KNH-HCW-0055-1,.51406926,NEGATIVE,female,NBI,Nurse,,,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,0,0,,03oct1992,,0,0,0,0,,18-29
+25,KNH-HCW-0081-1,4.5176811,POSITIVE,female,NBI,Doctor,,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,1,NONE,0,0,NONE,0,0,1,2,,19sep1994,17aug2020,0,1,0,0,,18-29
+23,KNH-HCW-0196-1,1.2906309,NEGATIVE,male,NBI,Other,,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,07oct1996,28aug2020,0,0,0,0,,18-29
+30,KNH-HCW-0032-1,4.3828206,POSITIVE,male,NBI,Other,HEALTH INFO. OFFICER,no_prev_swab,,,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,25may1990,06aug2020,0,0,0,0,,30-39
+26,KNH-HCW-0096-1,1.8863767,NEGATIVE,female,NBI,Other,HEALTH INFO OFFICER,prev_swab_taken,Negative,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,1,1,1,2,15apr2020,16sep1993,15apr2020,0,0,0,0,,18-29
+24,KNH-HCW-0078-1,6.6852174,POSITIVE,female,NBI,Nurse,,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,27sep1995,17aug2020,0,0,0,0,,18-29
+27,KNH-HCW-0039-1,1.1277837,NEGATIVE,female,NBI,Doctor,,no_prev_swab,,,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,16sep1992,06aug2020,0,0,0,0,,18-29
+28,KNH-HCW-0057-1,2.3073595,POSITIVE,female,NBI,Doctor,,prev_swab_taken,Negative,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,ASTHMA,1,1,0,2,15jul2020,17jun1992,15jul2020,0,0,0,0,,18-29
+28,KNH-HCW-0004-1,1.9796634,NEGATIVE,female,NBI,Laboratory,,prev_swab_taken,Not known,,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,1,1,1,0,,26oct1991,,0,0,0,0,,18-29
+100,KNH-HCW-0105-1,.87441856,NEGATIVE,male,NBI,Other,NUTRITIONIST,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,03may1920,19aug2020,0,0,0,0,,>60
+28,KNH-HCW-0159-1,2.2733543,POSITIVE,female,NBI,Other,COUNSELLOR,prev_swab_taken,Negative,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,1,1,1,2,15apr2020,27mar1992,15apr2020,0,0,0,0,,18-29
+43,KNH-HCW-0186-1,1.0114722,NEGATIVE,female,NBI,Other,HEALTH INFORMATION OFFICER,prev_swab_taken,Negative,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,1,1,1,2,15aug2020,14apr1977,15aug2020,0,0,0,0,,40-49
+30,KNH-HCW-0110-1,.31453487,NEGATIVE,female,NBI,Nurse,,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,16dec1989,19aug2020,0,0,0,0,,30-39
+29,KNH-HCW-0193-1,.9827916,NEGATIVE,female,NBI,Doctor,,prev_swab_taken,Negative,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,1,1,1,2,15apr2020,12dec1990,15apr2020,0,0,0,0,,18-29
+31,KNH-HCW-0114-1,1.4831395,NEGATIVE,male,NBI,Other,PHYSIOTHERAPIST,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,25dec1988,19aug2019,0,0,0,0,,30-39
+34,KNH-HCW-0135-1,1.3726743,NEGATIVE,female,NBI,Other,COUNSELLOR,no_prev_swab,,,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,11jun1986,20aug2020,0,0,0,0,,30-39
+99,KNH-HCW-0034-1,1.2099682,NEGATIVE,male,NBI,Other,HEALTH INFO. OFFICER,no_prev_swab,,,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NON,0,0,1,2,,06nov1920,06aug2020,0,0,0,0,,>60
+26,KNH-HCW-0109-1,4.7860465,POSITIVE,female,NBI,Doctor,,prev_swab_taken,Negative,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,15jun2020,23feb1994,19aug2020,0,0,0,0,,18-29
+39,KNH-HCW-0084-1,7.2104349,POSITIVE,male,NBI,Support Staff,PATIENT PORTER,prev_swab_taken,Negative,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,1,1,1,2,15apr2020,26nov1980,25apr2020,0,0,0,0,,30-39
+28,KNH-HCW-0076-1,7.0046377,POSITIVE,female,NBI,Nurse,,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,22apr1992,17aug2020,0,0,0,0,,18-29
+26,KNH-HCW-0079-1,3.2510147,POSITIVE,male,NBI,Other,ORTHO-TRAUMA SPECIALIST,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,23dec1993,17aug2020,0,0,0,0,,18-29
+24,KNH-HCW-0188-1,.89611214,NEGATIVE,female,NBI,Other,HEALTH INFORMATION OFFICER,prev_swab_taken,Negative,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,1,1,1,2,15aug2020,14jun1996,15aug2020,0,0,0,0,,18-29
+25,KNH-HCW-0038-1,.72693527,NEGATIVE,female,NBI,Doctor,,no_prev_swab,,,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,29dec1994,06aug2020,0,0,0,0,,18-29
+27,KNH-HCW-0197-1,3.6277883,POSITIVE,female,NBI,Doctor,,prev_swab_taken,Negative,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,1,1,1,2,15may2020,15mar1993,15may2020,0,0,0,0,,18-29
+34,KNH-HCW-0077-1,3.1605797,POSITIVE,female,NBI,Other,PUBLIC HEALTH OFFICER,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,,,NONE,0,0,1,0,,26apr1986,17aug2020,0,0,0,0,,30-39
+30,KNH-HCW-0074-1,4.2434783,POSITIVE,male,NBI,Nurse,,prev_swab_taken,Negative,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,1,1,0,2,15may2020,23jan1990,15may2020,0,0,0,0,,30-39
+27,KNH-HCW-0010-1,1.3029453,NEGATIVE,female,NBI,Doctor,,no_prev_swab,,,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,01aug1992,30jul2020,0,0,0,0,,18-29
+30,KNH-HCW-0107-1,1.7197673,NEGATIVE,male,NBI,Nurse,,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,10apr1990,19aug2020,0,0,0,0,,30-39
+46,KNH-HCW-0099-1,2.8846376,POSITIVE,female,NBI,Other,HEALTH INFO OFFICER,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,26dec1973,18aug2020,0,0,0,0,,40-49
+22,KNH-HCW-0191-1,1.2319949,NEGATIVE,female,NBI,Nurse,,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,28may1998,26aug2020,0,0,0,0,,18-29
+27,KNH-HCW-0200-1,.67813891,NEGATIVE,male,NBI,Support Staff,SUPPORT STAFF,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,12dec1992,28aug2020,0,0,0,0,,18-29
+31,KNH-HCW-0067-1,2.8268399,POSITIVE,male,NBI,Doctor,,prev_swab_taken,Negative,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,1,1,1,2,15mar2020,04dec1988,15mar2020,0,0,0,0,,30-39
+40,KNH-HCW-0044-1,6.5169668,POSITIVE,female,NBI,Support Staff,PATIENT PORTER,prev_swab_taken,Not known,,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,1,1,1,2,15apr2020,16aug1979,15apr2020,0,0,0,0,,40-49
+39,KNH-HCW-0112-1,8.014535,POSITIVE,female,NBI,Support Staff,PATIENT PORTER,prev_swab_taken,Negative,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,15jul2020,07jan1981,19aug2019,0,0,0,0,,30-39
+,KNH-HCW-0138-1,4.0680232,POSITIVE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,,
+26,KNH-HCW-0075-1,2.0544927,POSITIVE,male,NBI,Doctor,,prev_swab_taken,Negative,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,1,1,1,2,15jul2020,13oct1993,15jul2020,0,0,0,0,,18-29
+31,KNH-HCW-0024-1,11.067321,POSITIVE,female,NBI,Nurse,,no_prev_swab,,,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,14aug1988,04aug2020,0,0,0,0,,30-39
+28,KNH-HCW-0136-1,1.9982557,NEGATIVE,male,NBI,Laboratory,,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,28oct1991,20aug2020,0,0,0,0,,18-29
+27,KNH-HCW-0026-1,7.2678819,POSITIVE,male,NBI,Doctor,,no_prev_swab,,,0,0,0,0,0,0,0,0,0,0,,0,0,,0,0,1,2,,19dec1992,04aug2020,0,0,0,0,,18-29
+27,KNH-HCW-0115-1,.68139535,NEGATIVE,male,NBI,Support Staff,SUPPORT STAFF,prev_swab_taken,Negative,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,15may2020,03oct1992,19aug2020,0,0,0,0,,18-29
+28,KNH-HCW-0124-1,3.0755813,POSITIVE,male,NBI,Other,HEALTH INFO. OFFICER,prev_swab_taken,Negative,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,15jul2020,01oct1991,20aug2020,0,0,0,0,,18-29
+38,KNH-HCW-0028-1,1.0329593,NEGATIVE,female,NBI,Doctor,,prev_swab_taken,Negative,,0,0,0,0,0,0,0,0,0,0,,1,0,NONE,1,1,1,2,15may2020,15oct1981,04aug2020,0,0,0,0,,30-39
+28,KNH-HCW-0035-1,.97295868,NEGATIVE,female,NBI,Doctor,,no_prev_swab,,,0,0,0,0,0,0,0,0,0,0,,0,0,NONE,0,0,1,2,,22aug1991,06aug2020,0,0,0,0,,18-29
+25,KNH-HCW-0009-1,8.5077133,POSITIVE,female,NBI,Nurse,,prev_swab_taken,Negative,,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,1,1,1,0,15apr2020,03jan1995,15apr2020,0,0,0,0,,18-29
+20,KNH-HCW-0121-1,2.6732557,POSITIVE,female,NBI,Support Staff,SUPPORT STAFF,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,07jul2000,20aug2020,0,0,0,0,,18-29
+31,KNH-HCW-0064-1,.69155848,NEGATIVE,female,NBI,Support Staff,PATIENT PORTER,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,03dec1988,10aug2020,0,0,0,0,,30-39
+41,KNH-HCW-0065-1,.68290049,NEGATIVE,male,NBI,Support Staff,PATIENT PORTER,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,04apr1979,10aug2020,0,0,0,0,,40-49
+36,KNH-HCW-0002-1,7.5638151,POSITIVE,female,NBI,Laboratory,,prev_swab_taken,Negative,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,15apr2020,24aug1983,30jul2020,0,0,0,0,,30-39
+27,KNH-HCW-0007-1,4.8401122,POSITIVE,male,NBI,Doctor,,prev_swab_taken,Negative,,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,1,1,1,2,15apr2020,03dec1992,15apr2020,0,0,0,0,,18-29
+27,KNH-HCW-0016-1,1.7286115,NEGATIVE,male,NBI,Nurse,,prev_swab_taken,Negative,,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,1,1,1,2,15mar2020,22feb1993,15mar2020,0,0,0,0,,18-29
+27,KNH-HCW-0093-1,1.4301449,NEGATIVE,male,NBI,Doctor,,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,17mar1993,18aug2020,0,0,0,0,,18-29
+100,KNH-HCW-0085-1,1.84,NEGATIVE,male,NBI,Pharmacy,PHARMACIST,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,27mar1920,17aug2020,0,0,0,0,,>60
+37,KNH-HCW-0070-1,2.3154762,POSITIVE,male,NBI,Pharmacy,PHARMACY STAFF,prev_swab_taken,Negative,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,1,1,1,2,15apr2020,11sep1982,15apr2020,0,0,0,0,,30-39
+33,KNH-HCW-0122-1,1.4406976,NEGATIVE,male,NBI,Other,SOCIAL WORKER,prev_swab_taken,Negative,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,15aug2020,02jul1987,20aug2020,0,0,0,0,,30-39
+45,KNH-HCW-0033-1,.67974544,NEGATIVE,male,NBI,Other,HEALTH INFO. OFFICER,no_prev_swab,,,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,15nov1974,06aug2020,0,0,0,0,,40-49
+47,KNH-HCW-0174-1,.95920968,NEGATIVE,male,NBI,Other,HEALTH INFORMATION OFFICER,prev_swab_taken,Negative,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,1,1,1,2,15apr2020,11dec1972,15apr2020,0,0,0,0,,40-49
+34,KNH-HCW-0117-1,1.4465115,NEGATIVE,female,NBI,Nurse,,prev_swab_taken,Negative,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,15jun2020,04feb1986,19aug2020,0,0,0,0,,30-39
+29,KNH-HCW-0025-1,1.2713885,NEGATIVE,male,NBI,Doctor,,no_prev_swab,,,0,0,0,0,0,0,0,0,0,1,,0,0,NONE,0,0,1,2,,19sep1990,04aug2020,0,1,0,0,,18-29
+37,KNH-HCW-0036-1,1.3552492,NEGATIVE,male,NBI,Nurse,,prev_swab_taken,Negative,,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,1,1,1,2,15apr2020,16dec1982,15apr2020,0,0,0,0,,30-39
+39,KNH-HCW-0160-1,1.292163,NEGATIVE,female,NBI,Clinical Officer,,prev_swab_taken,Negative,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,1,1,1,2,15apr2020,30oct1980,15apr2020,0,0,0,0,,30-39
+46,KNH-HCW-0187-1,1.124283,NEGATIVE,female,NBI,Nurse,,prev_swab_taken,Negative,NONE,0,0,0,0,0,0,0,0,0,0,NONE,1,0,NONE,1,1,1,2,15aug2020,12apr1974,15aug2020,0,0,0,0,,40-49
+50,KNH-HCW-0129-1,4.9180231,POSITIVE,female,NBI,Nurse,,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,ATOPY,0,0,1,2,,13jun1970,20aug2020,0,0,0,0,,50-59
+41,KNH-HCW-0126-1,.3093023,NEGATIVE,male,NBI,Nurse,,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,05mar1979,20aug2020,0,0,0,0,,40-49
+51,KNH-HCW-0168-1,.76163155,NEGATIVE,male,NBI,Support Staff,SUPPORT STAFF,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,29sep1968,26aug2020,0,0,0,0,,50-59
+37,KNH-HCW-0003-1,4.0518932,POSITIVE,female,NBI,Laboratory,,prev_swab_taken,Negative,NONE,0,0,0,0,0,0,0,0,0,0,ASTHMA,0,0,NONE,0,0,1,2,15apr2020,10aug1982,30jul2020,1,1,0,0,,30-39
+44,KNH-HCW-0069-1,2.590368,POSITIVE,female,NBI,Pharmacy,PHARMACIST,prev_swab_taken,Negative,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,1,1,0,2,15apr2020,02dec1975,15apr2020,0,0,0,0,,40-49
+36,KNH-HCW-0123-1,2.019186,POSITIVE,male,NBI,Other,HEALTH INFO. OFFICER,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,18sep1983,20aug2020,0,0,0,0,,30-39
+35,KNH-HCW-0058-1,3.0643938,POSITIVE,male,NBI,Doctor,,no_prev_swab,,,0,0,0,0,0,0,0,0,0,0,,0,0,NONE,0,0,1,2,,21jan1985,10aug2020,0,0,0,0,,30-39
+53,KNH-HCW-0127-1,1.4837209,NEGATIVE,male,NBI,Nurse,,prev_swab_taken,Negative,NONE,0,0,0,0,0,0,0,0,0,0,,1,0,NONE,0,0,1,2,28may2020,16sep1966,20aug2020,0,0,0,0,,50-59
+29,KNH-HCW-0062-1,3.3208873,POSITIVE,male,NBI,Doctor,,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,10jan1991,10aug2020,0,0,0,0,,18-29
+36,KNH-HCW-0118-1,.75058132,NEGATIVE,female,NBI,Doctor,,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,14jun1984,19aug2020,0,0,0,0,,30-39
+56,KNH-HCW-0178-1,.94008917,NEGATIVE,female,NBI,Other,HEALTH INFORMATION OFFICER,prev_swab_taken,Negative,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,1,1,1,2,15jul2020,19sep1963,15jul2020,0,0,0,0,,50-59
+27,KNH-HCW-0164-1,.84075236,NEGATIVE,female,NBI,Doctor,,prev_swab_taken,Negative,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,1,1,1,2,15jul2020,19jan1993,15jul2020,0,0,0,0,,18-29
+51,KNH-HCW-0040-1,3.6097562,POSITIVE,female,NBI,Nurse,,prev_swab_taken,Negative,,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,1,1,1,2,15apr2020,18aug1968,15apr2020,0,0,0,0,,50-59
+45,KNH-HCW-0041-1,.89130431,NEGATIVE,female,NBI,Nurse,,no_prev_swab,,,0,0,0,0,0,0,0,0,0,1,NONE,0,0,NONE,0,0,1,2,,22apr1975,06aug2020,0,1,0,0,,40-49
+48,KNH-HCW-0056-1,4.2656927,POSITIVE,female,NBI,Nurse,,prev_swab_taken,Negative,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,1,1,0,2,15apr2020,27sep1971,15apr2020,0,0,0,0,,40-49
+53,KNH-HCW-0162-1,.74231976,NEGATIVE,female,NBI,Nurse,,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,1,NONE,0,0,1,2,,07feb1967,25aug2020,0,0,0,0,,50-59
+50,KNH-HCW-0153-1,1.1742946,NEGATIVE,male,NBI,Nurse,,prev_swab_taken,Negative,NONE,0,0,0,0,0,0,1,0,0,0,NONE,0,0,NONE,1,1,1,2,15jun2020,15feb1970,15jun2020,0,1,0,0,,50-59
+44,KNH-HCW-0097-1,14.09971,POSITIVE,male,NBI,Other,HEALTH INFORMATION OFFICER,prev_swab_taken,Negative,HAD INITIALLY TURNED +VE ,0,0,0,0,0,1,1,1,1,1,NONE,0,0,NONE,1,1,0,0,04aug2020,22mar1976,04aug2020,0,5,0,0,,40-49
+41,KNH-HCW-0092-1,2.6684058,POSITIVE,male,NBI,Support Staff,PATIENT PORTER,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,01jul1979,18aug2020,0,0,0,0,,40-49
+100,KNH-HCW-0119-1,3.7215116,POSITIVE,female,NBI,Support Staff,SUPPORT STAFF,prev_swab_taken,Negative,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,ASTHMA,0,0,1,2,15jul2020,15may1920,15jul2020,0,0,0,0,,>60
+46,KNH-HCW-0195-1,.8253665,NEGATIVE,female,NBI,Nurse,,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,03jan1974,28aug2020,0,0,0,0,,40-49
+54,KNH-HCW-0027-1,,,female,NBI,Nurse,,prev_swab_taken,Negative,,0,0,0,0,0,0,0,0,0,0,,0,0,,1,1,1,2,15apr2020,15oct1965,15apr2020,0,0,0,0,,50-59
+36,KNH-HCW-0103-1,1.5447675,NEGATIVE,female,NBI,Doctor,,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,22mar1984,19aug2020,0,0,0,0,,30-39
+36,KNH-HCW-0012-1,1.1143057,NEGATIVE,female,NBI,Doctor,,no_prev_swab,,,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,11aug1983,30jul2020,0,0,0,0,,30-39
+54,KNH-HCW-0158-1,13.71536,POSITIVE,female,NBI,Clinical Officer,,prev_swab_taken,Negative,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,ASTHMATIC,1,1,1,2,15apr2020,19aug1966,15apr2020,0,0,0,0,,50-59
+51,KNH-HCW-0006-1,2.0217392,POSITIVE,female,NBI,Nurse,,prev_swab_taken,Negative,,0,0,0,0,0,0,1,0,0,0,NONE,1,0,NONE,1,1,1,2,15apr2020,05jan1969,15apr2020,0,1,0,0,,50-59
+,KNH-HCW-0190-1,1.0369662,NEGATIVE,male,NBI,Nurse,,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,1,NONE,0,0,NONE,0,0,1,2,,,26aug2020,0,1,0,0,,
+57,KNH-HCW-0171-1,1.1491395,NEGATIVE,male,NBI,Other,HEALTH INFORMATION OFFICER,prev_swab_taken,Negative,NONE,0,0,0,0,0,0,0,0,0,0,NONE,1,0,NONE,1,1,1,2,15jun2020,01sep1962,15jun2020,0,0,0,0,,50-59
+41,KNH-HCW-0071-1,15.130411,POSITIVE,male,NBI,Pharmacy,PHARMACIST,prev_swab_taken,Negative,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,1,1,1,2,15apr2020,14jan1979,15apr2020,0,0,0,0,,40-49
+51,KNH-HCW-0201-1,1.1332059,NEGATIVE,female,NBI,Nurse,,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,01dec1968,28aug2020,0,0,0,0,,50-59
+36,KNH-HCW-0001-1,.80995792,NEGATIVE,female,NBI,Laboratory,,prev_swab_taken,Negative,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,15apr2020,30jul1984,15apr2020,0,0,0,0,,30-39
+49,KNH-HCW-0060-1,1.1093074,NEGATIVE,female,NBI,Nurse,,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,26nov1970,10aug2020,0,0,0,0,,40-49
+45,KNH-HCW-0094-1,1.5790697,NEGATIVE,female,NBI,Other,HEALTH INFO OFFICER,prev_swab_taken,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,1,0,NONE,1,1,1,2,16jul2020,26oct1974,16jul2020,0,0,0,0,,40-49
+31,KNH-HCW-0194-1,.71128106,NEGATIVE,male,NBI,Doctor,,prev_swab_taken,Negative,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,1,1,1,2,15jul2020,22feb1989,15jul2020,0,0,0,0,,30-39
+30,KNH-HCW-0132-1,2.0122092,POSITIVE,male,NBI,Doctor,,prev_swab_taken,Negative,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,1,1,1,2,15jul2020,09may1990,15jul2020,0,0,0,0,,30-39
+46,KNH-HCW-0087-1,1.6707246,NEGATIVE,female,NBI,Nurse,,no_prev_swab,,NONE,0,0,0,0,0,,,,,,NONE,0,0,NONE,0,0,1,0,,20jul1974,18aug2020,0,0,0,0,,40-49
+49,KNH-HCW-0046-1,2.5005302,POSITIVE,female,NBI,Nurse,,no_prev_swab,,,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,25dec1970,06aug2020,0,0,0,0,,40-49
+58,KNH-HCW-0181-1,.96175551,NEGATIVE,male,NBI,Other,HEALTH INFORMATION OFFICER,prev_swab_taken,Negative,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,1,1,1,2,15may2020,01jan1962,15may2020,0,0,0,0,,50-59
+40,KNH-HCW-0180-1,.59011626,NEGATIVE,male,NBI,Other,HEALTH INFORMATION OFFICER,prev_swab_taken,Negative,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,1,1,1,2,15aug2020,21jun1980,15aug2020,0,0,0,0,,40-49
+50,KNH-HCW-0018-1,1.8856943,NEGATIVE,female,NBI,Other,OFFICE ADMINISTRATOR,no_prev_swab,,,0,0,0,0,0,0,0,0,0,1,NONE,0,0,NONE,0,0,1,2,,28jun1970,03aug2020,0,1,0,0,,50-59
+,KNH-HCW-0100-1,1.9819767,NEGATIVE,male,NBI,Nurse,,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,,18aug2020,0,0,0,0,,
+49,KNH-HCW-0017-1,.75175315,NEGATIVE,male,NBI,Doctor,,prev_swab_taken,Not known,,0,0,0,0,0,0,0,0,0,0,NONE,1,1,NONE,1,1,1,2,03aug2020,31mar1971,03aug2020,0,0,0,0,,40-49
+47,KNH-HCW-0170-1,.79796046,NEGATIVE,female,NBI,Other,HEALTH INFORMATION OFFICER,prev_swab_taken,Negative,NONE,0,0,0,0,0,0,0,0,0,0,NONE,1,0,NONE,1,1,1,2,15jul2020,28mar1973,15jul2020,0,0,0,0,,40-49
+37,KNH-HCW-0014-1,2.7145863,POSITIVE,female,NBI,Doctor,,no_prev_swab,,,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,31may1983,30jul2020,0,0,0,0,,30-39
+30,KNH-HCW-0130-1,2.0901163,POSITIVE,female,NBI,Doctor,,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,11jul1990,08aug2020,0,0,0,0,,30-39
+49,KNH-HCW-0175-1,.8470363,NEGATIVE,female,NBI,Other,HEALTH INFORMATION OFFICER,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,19nov1970,26aug2020,0,0,0,0,,40-49
+29,KNH-HCW-0088-1,1.2510145,NEGATIVE,female,NBI,Doctor,,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,20aug1990,18aug2020,0,0,0,0,,18-29
+29,KNH-HCW-0192-1,.70809436,NEGATIVE,female,NBI,Doctor,,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,27jun1991,28aug2020,0,0,0,0,,18-29
+27,KNH-HCW-0139-1,4.3168602,POSITIVE,male,NBI,Other,ORTHOTRAUMA SPECIALIST,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,23oct1992,20aug2020,0,0,0,0,,18-29
+34,KNH-HCW-0133-1,14.848836,POSITIVE,male,NBI,Doctor,,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,06aug1986,06aug2086,0,0,0,0,,30-39
+29,KNH-HCW-0111-1,2.4093022,POSITIVE,female,NBI,Nurse,,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,29aug1990,19aug2020,0,0,0,0,,18-29
+43,KNH-HCW-0125-1,1.4581395,NEGATIVE,female,NBI,Other,COUNSELOR,prev_swab_taken,Negative,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,15apr2020,09dec1976,20aug2020,0,0,0,0,,40-49
+46,KNH-HCW-0095-1,.39014491,NEGATIVE,female,NBI,Other,HEALTH INFO OFFICER,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,09sep1973,18aug2020,0,0,0,0,,40-49
+35,KNH-HCW-0154-1,1.6884013,NEGATIVE,female,NBI,Doctor,,prev_swab_taken,Negative,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,1,1,1,2,15apr2020,28jun1985,15apr2020,0,0,0,0,,30-39
+34,KNH-HCW-0108-1,3.1494186,POSITIVE,male,NBI,Nurse,,prev_swab_taken,Negative,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,15jun2020,20may1986,19aug2020,0,0,0,0,,30-39
+29,KNH-HCW-0053-1,5.6709957,POSITIVE,female,NBI,Nurse,,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,29sep1990,10aug2020,0,0,0,0,,18-29
+33,KNH-HCW-0048-1,.98197246,NEGATIVE,male,NBI,Pharmacy,PHARMACIST,no_prev_swab,,,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,01may1987,06aug2020,0,0,0,0,,30-39
+32,KNH-HCW-0042-1,1.2460233,NEGATIVE,male,NBI,Support Staff,PATIENT PORTER,no_prev_swab,,,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,07jan1988,06aug2020,0,0,0,0,,30-39
+100,KNH-HCW-0047-1,2.6219513,POSITIVE,male,NBI,Nurse,,no_prev_swab,,,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,06aug1920,06aug2020,0,0,0,0,,>60
+33,KNH-HCW-0011-1,1.4207574,NEGATIVE,female,NBI,Doctor,,prev_swab_taken,Negative,,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,1,1,1,2,15jul2020,09sep1986,15jul2020,0,0,0,0,,30-39
+56,KNH-HCW-0183-1,1.3460803,NEGATIVE,female,NBI,Other,HEALTH INFORMATION OFFICER,prev_swab_taken,Negative,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,1,1,1,2,15jul2020,04feb1964,15jul2020,0,0,0,0,,50-59
+40,KNH-HCW-0061-1,2.2689393,POSITIVE,male,NBI,Nurse,,prev_swab_taken,Negative,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,1,1,1,2,15apr2020,05nov1979,15apr2020,0,0,0,0,,40-49
+34,KNH-HCW-0015-1,1.2987378,NEGATIVE,female,NBI,Nurse,,prev_swab_taken,Negative,,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,1,1,1,2,15mar2020,24jun1986,15mar2020,0,0,0,0,,30-39
+29,KNH-HCW-0152-1,1.5893418,NEGATIVE,male,NBI,Doctor,,prev_swab_taken,Negative,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,1,1,1,2,15jun2020,20mar1991,15jun2020,0,0,0,0,,18-29
+100,KNH-HCW-0104-1,.78139532,NEGATIVE,male,NBI,Nurse,,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,05may1920,19aug2020,0,0,0,0,,>60
+48,KNH-HCW-0182-1,.50541747,NEGATIVE,female,NBI,Other,HEALTH INFORMATION OFFICER,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,22feb1972,26aug2020,0,0,0,0,,40-49
+22,KNH-HCW-0116-1,6.270349,POSITIVE,male,NBI,Support Staff,SUPPORT STAFF,prev_swab_taken,Negative,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,15jul2020,28jul1998,15jul2020,0,0,0,0,,18-29
+34,KNH-HCW-0155-1,4.104702,POSITIVE,male,NBI,Doctor,,prev_swab_taken,Negative,NONE,0,0,0,0,0,0,0,0,0,1,NONE,0,0,NONE,1,1,1,2,15jun2020,22apr1986,15jun2020,0,1,0,0,,30-39
+34,KNH-HCW-0051-1,2.7773066,POSITIVE,female,NBI,Nurse,,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,21feb1986,06aug2020,0,0,0,0,,30-39
+29,KNH-HCW-0029-1,6.1612902,POSITIVE,male,NBI,Nurse,,no_prev_swab,,,0,0,0,0,0,0,0,1,0,1,NONE,0,0,,0,0,1,2,,01may1991,04aug2020,0,2,0,0,,18-29
+38,KNH-HCW-0173-1,3.2574887,POSITIVE,female,NBI,Other,HEALTH INFORMATION OFFICER,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,13feb1982,26aug2020,0,0,0,0,,30-39
+34,KNH-HCW-0086-1,3.2249274,POSITIVE,male,NBI,Nurse,,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,09jul1986,18aug2020,0,0,0,0,,30-39
+54,KNH-HCW-0157-1,1.4025078,NEGATIVE,female,NBI,Nurse,,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,12mar1966,25aug2020,0,0,0,0,,50-59
+34,KNH-HCW-0156-1,10.241379,POSITIVE,male,NBI,Pharmacy,PHARMACIST,prev_swab_taken,Negative,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,1,1,1,2,15aug2020,07jan1986,15aug2020,0,0,0,0,,30-39
+47,KNH-HCW-0169-1,1.1746335,NEGATIVE,female,NBI,Other,HEALTH INFORMATION OFFICER,prev_swab_taken,Negative,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,1,1,1,2,15jul2020,28aug1972,15jul2020,0,0,0,0,,40-49
+35,KNH-HCW-0102-1,1.7290697,NEGATIVE,male,NBI,Doctor,,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,ASTHMA,0,0,1,2,,25apr1985,19aug2020,0,0,0,0,,30-39
+35,KNH-HCW-0049-1,1.5811241,NEGATIVE,male,NBI,Nurse,,no_prev_swab,,,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,16jan1985,06aug2020,0,0,0,0,,30-39
+40,KNH-HCW-0113-1,2.0813954,POSITIVE,female,NBI,Nurse,,prev_swab_taken,Negative,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,15jun2020,23oct1979,15jun2020,0,0,0,0,,40-49
+31,KNH-HCW-0019-1,2.3681629,POSITIVE,female,NBI,Doctor,,prev_swab_taken,Negative,,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,1,1,1,2,07jul2020,30oct1988,25sep2020,0,0,0,0,,30-39
+27,KNH-HCW-0050-1,1.1919407,NEGATIVE,female,NBI,Nurse,,no_prev_swab,,,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,07aug1992,06aug2020,0,0,0,0,,18-29
+29,KNH-HCW-0172-1,.63224983,NEGATIVE,male,NBI,Other,HEALTH INFORMATION OFFICER,prev_swab_taken,Negative,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,1,1,1,2,15jun2020,15may1991,15jun2020,0,0,0,0,,18-29
+99,KNH-HCW-0137-1,11.452907,POSITIVE,female,NBI,Other,HEALTH INFO. OFFICER,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,04nov1920,20aug2020,0,0,0,0,,>60
+56,KNH-HCW-0167-1,1.4727272,NEGATIVE,male,NBI,Support Staff,SUPPORT STAFF,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,20jun1964,26aug2020,0,0,0,0,,50-59
+52,KNH-HCW-0098-1,3.4742031,POSITIVE,female,NBI,Other,HEALTH INFO OFFICER,prev_swab_taken,Negative,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,1,1,1,2,15apr2020,30mar1968,15apr2020,0,0,0,0,,50-59
+29,KNH-HCW-0091-1,4.3011627,POSITIVE,male,NBI,Doctor,,prev_swab_taken,Negative,NONE,0,0,0,0,0,0,0,1,0,0,NONE,0,0,NONE,1,1,1,2,15jul2020,19sep1990,15jul2020,0,1,0,0,,18-29
+28,KNH-HCW-0082-1,2.5037682,POSITIVE,male,NBI,Nurse,,prev_swab_taken,Negative,NONE,0,0,0,0,0,0,1,0,0,1,NONE,0,0,NONE,1,1,1,2,21jul2020,22may1992,21jul2020,0,2,0,0,,18-29
+50,KNH-HCW-0161-1,2.0250785,POSITIVE,female,NBI,Other,HEALTH INFORMATION OFFICER,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,07mar1970,25aug2020,0,0,0,0,,50-59
+31,KNH-HCW-0163-1,.54608148,NEGATIVE,female,NBI,Clinical Officer,,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,16jan1989,25aug2020,0,0,0,0,,30-39
+29,KNH-HCW-0037-1,1.2735949,NEGATIVE,male,NBI,Nurse,,no_prev_swab,,,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,27sep1990,06aug2020,0,0,0,0,,18-29
+34,KNH-HCW-0013-1,.89340812,NEGATIVE,male,NBI,Doctor,,prev_swab_taken,Not known,,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,1,1,0,2,24jun2020,07jan1986,24jun2020,0,0,0,0,,30-39
+52,KNH-HCW-0030-1,1.3618513,NEGATIVE,female,NBI,Nurse,,prev_swab_taken,Negative,,0,0,0,0,0,1,1,1,0,1,NONE,0,1,NONE,1,1,1,2,04aug2020,21mar1968,04aug2020,0,4,0,0,,50-59
+57,KNH-HCW-0080-1,1.7594203,NEGATIVE,male,NBI,Doctor,,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,15feb1963,17aug2020,0,0,0,0,,50-59
+31,KNH-HCW-0101-1,15.728696,POSITIVE,male,NBI,Doctor,,prev_swab_taken,Negative,"HCW HAS HAD MULTIPLE SWABS TAKEN PREVIOUSLY, WHICH THE INITIAL WAS POSITIVE",0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,15jun2020,08mar1989,18aug2020,0,0,0,0,,30-39
+25,KNH-HCW-0199-1,.75780749,NEGATIVE,male,NBI,Laboratory,,prev_swab_taken,Negative,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,1,1,1,2,15apr2020,12sep1994,15apr2020,0,0,0,0,,18-29
+24,KNH-HCW-0083-1,7.4376812,POSITIVE,male,NBI,Support Staff,PATIENT PORTER,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,13jun1996,17aug2020,0,0,0,0,,18-29
+30,KNH-HCW-0045-1,1.2036055,NEGATIVE,male,NBI,Nurse,,prev_swab_taken,Negative,,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,1,1,1,2,20apr2020,15sep1989,20apr2020,0,0,0,0,,30-39
+25,KNH-HCW-0140-1,3.1122093,POSITIVE,male,NBI,Doctor,,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,08aug1995,20aug2020,0,0,0,0,,18-29
+38,KNH-HCW-0022-1,2.7657783,POSITIVE,female,NBI,Nurse,,no_prev_swab,,,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,15may1982,04aug2020,0,0,0,0,,30-39
+24,KNH-HCW-0120-1,1.394186,NEGATIVE,female,NBI,Nurse,,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,09may1996,19aug2020,0,0,0,0,,18-29
+27,KNH-HCW-0089-1,.93101454,NEGATIVE,female,NBI,Doctor,,no_prev_swab,,NONE,0,0,0,0,0,0,1,0,0,0,NONE,0,0,NONE,0,0,1,2,,04jul1993,18aug2020,0,1,0,0,,18-29
+34,KNH-HCW-0021-1,1.3260869,NEGATIVE,male,NBI,Doctor,,prev_swab_taken,Not known,,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,1,1,1,2,04aug2020,23feb1986,04aug2020,0,0,0,0,,30-39
+27,KNH-HCW-0031-1,1.3430541,NEGATIVE,male,NBI,Doctor,,no_prev_swab,,,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,06sep1992,06aug2020,0,0,0,0,,18-29
+27,KNH-HCW-0166-1,.63761753,NEGATIVE,male,NBI,Support Staff,SUPPORT STAFF,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,20oct1992,25aug2020,0,0,0,0,,18-29
+27,KNH-HCW-0005-1,1.8078542,NEGATIVE,male,NBI,Laboratory,,no_prev_swab,,,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,28oct1992,30jul2020,0,0,0,0,,18-29
+26,KNH-HCW-0072-1,.78376806,NEGATIVE,female,NBI,Doctor,,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,10apr1994,17aug2020,0,0,0,0,,18-29
+20,KNH-HCW-0059-1,4.8879871,POSITIVE,male,NBI,Support Staff,PATIENT PORTER,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,03oct1999,10aug2020,0,0,0,0,,18-29
+19,KNH-HCW-0165-1,3.4257054,POSITIVE,male,NBI,Support Staff,SUPPORT STAFF,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,0,0,,19apr2001,25aug2020,0,0,0,0,,18-29
+25,KNH-HCW-0063-1,.59523809,NEGATIVE,male,NBI,Doctor,,prev_swab_taken,Negative,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,1,1,1,2,18jun2020,23sep1994,18jun2020,0,0,0,0,,18-29
+23,KNH-HCW-0179-1,.54110897,NEGATIVE,female,NBI,Other,HEALTH INFORMATION OFFICER,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,16jul1997,26aug2020,0,0,0,0,,18-29
+23,KNH-HCW-0198-1,.75844485,NEGATIVE,female,NBI,Clinical Officer,,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,26dec1996,28aug2020,0,0,0,0,,18-29
+,KNH-HCW-0185-1,,,male,NBI,Other,HEALTH INFORMATION OFFICER,prev_swab_taken,Negative,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,1,1,1,2,15aug2020,13jan1973,15aug2020,0,0,0,0,,
+,KNH-HCW-0020-1,,,male,NBI,Doctor,,prev_swab_taken,Not known,,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,1,1,1,2,29jul2020,02apr1985,25sep2020,0,0,0,0,,
+,KNH-HCW-0138-1,,,female,NBI,Other,HEALTH INFO. OFFICER,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,01dec1992,20aug2020,0,0,0,0,,
+,KNH-HCW-0177-1,,,female,NBI,Other,HEALTH INFORMATION OFFICER,prev_swab_taken,Negative,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,1,1,1,2,15apr2020,31jan1975,15apr2020,0,0,0,0,,
+,KNH-HCW-0008-1,,,male,NBI,Doctor,,prev_swab_taken,Negative,,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,1,1,1,2,,19jun1986,25apr2020,0,0,0,0,,
+,KNH-HCW-0131-1,,,male,NBI,Doctor,,no_prev_swab,,NONE,0,0,0,0,0,0,0,0,0,0,NONE,0,0,NONE,0,0,1,2,,20aug1986,20aug2020,0,0,0,0,,
+29,KCH-HCW-0001-1,.87301588,NEGATIVE,male,KLF,Doctor,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,15apr2020,21feb1991,13oct2020,0,0,0,0,,18-29
+100,KCH-HCW-0002-1,1.2777778,NEGATIVE,male,KLF,Clinical Officer,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,11jun1920,13oct2020,0,0,0,0,,>60
+36,KCH-HCW-0003-1,12.587301,POSITIVE,male,KLF,Clinical Officer,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,31aug1984,13oct2020,0,0,0,0,,30-39
+29,KCH-HCW-0004-1,1.4444444,NEGATIVE,female,KLF,Doctor,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,14nov1990,13oct2020,0,0,0,0,,18-29
+29,KCH-HCW-0005-1,1.2777778,NEGATIVE,male,KLF,Laboratory,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,21nov1990,13oct2020,0,0,0,0,,18-29
+99,KCH-HCW-0006-1,.8888889,NEGATIVE,female,KLF,Other,Nutritionist,prev_swab_taken,Not known,,,,,,,,,,,,,,,,,,,,15apr2020,17dec1920,13oct2020,0,0,0,0,,>60
+100,KCH-HCW-0007-1,1.6269841,NEGATIVE,female,KLF,Pharmacy,Pharm Tech,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,26aug1920,13oct2020,0,0,0,0,,>60
+33,KCH-HCW-0008-1,2.6190476,POSITIVE,male,KLF,Doctor,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,26feb1987,13oct2020,0,0,0,0,,30-39
+27,KCH-HCW-0009-1,1.5555555,NEGATIVE,male,KLF,Doctor,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,08dec1992,14oct2020,0,0,0,0,,18-29
+37,KCH-HCW-0010-1,1.0396825,NEGATIVE,female,KLF,Doctor,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,28sep1983,14oct2020,0,0,0,0,,30-39
+29,KCH-HCW-0011-1,.86507934,NEGATIVE,male,KLF,Doctor,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,25mar1991,14oct2020,0,0,0,0,,18-29
+44,KCH-HCW-0012-1,7.6190472,POSITIVE,female,KLF,Other,Counselor,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,15apr2020,04oct1976,14oct2020,0,0,0,0,,40-49
+26,KCH-HCW-0013-1,.99206346,NEGATIVE,female,KLF,Support Staff,Fieldworker,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,07mar1994,14oct2020,0,0,0,0,,18-29
+37,KCH-HCW-0014-1,1.047619,NEGATIVE,male,KLF,Support Staff,Fieldworker,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,15oct1982,14oct2020,0,0,0,0,,30-39
+42,KCH-HCW-0015-1,1.0873015,NEGATIVE,male,KLF,Support Staff,Fieldworker,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,22mar1978,14oct2020,0,0,0,0,,40-49
+29,KCH-HCW-0016-1,1.2936507,NEGATIVE,female,KLF,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,14jul1991,14oct2020,0,0,0,0,,18-29
+42,KCH-HCW-0017-1,.97619051,NEGATIVE,female,KLF,Clinical Officer,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,22apr1978,15oct2020,0,0,0,0,,40-49
+99,KCH-HCW-0018-1,1.0634921,NEGATIVE,female,KLF,Support Staff,Fieldworker,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,29oct1920,15oct2020,0,0,0,0,,>60
+44,KCH-HCW-0019-1,.96031743,NEGATIVE,female,KLF,Clinical Officer,Anaesthetist,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,15apr2020,08sep1976,15oct2020,0,0,0,0,,40-49
+36,KCH-HCW-0020-1,1.0555556,NEGATIVE,female,KLF,Support Staff,Fieldworker,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,12sep1984,15oct2020,0,0,0,0,,30-39
+51,KCH-HCW-0021-1,1.2063491,NEGATIVE,male,KLF,Laboratory,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,04jun1969,15oct2020,0,0,0,0,,50-59
+38,KCH-HCW-0022-1,1.1587301,NEGATIVE,female,KLF,Support Staff,Fieldworker,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,20oct1981,15oct2020,0,0,0,0,,30-39
+100,KCH-HCW-0023-1,1.2380953,NEGATIVE,male,KLF,Clinical Officer,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,15apr2020,09oct1920,15oct2020,0,0,0,0,,>60
+31,KCH-HCW-0024-1,1.3888888,NEGATIVE,female,KLF,Other,Data Clerk,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,08may1989,15oct2020,0,0,0,0,,30-39
+46,KCH-HCW-0025-1,.80158734,NEGATIVE,female,KLF,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,18mar1974,16oct2020,0,0,0,0,,40-49
+,KCH-HCW-0026-1,.80158734,NEGATIVE,female,KLF,Clinical Officer,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,,16oct2020,0,0,0,0,,
+30,KCH-HCW-0027-1,1.1587301,NEGATIVE,male,KLF,Other,Data Clerk,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,15apr2020,10apr1990,16oct2020,0,0,0,0,,30-39
+37,KCH-HCW-0028-1,1.2460318,NEGATIVE,female,KLF,Other,Counselor,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,15apr2020,10oct1983,16oct2020,0,0,0,0,,30-39
+38,KCH-HCW-0029-1,1.0396825,NEGATIVE,male,KLF,Clinical Officer,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,10nov1981,16oct2020,0,0,0,0,,30-39
+36,KCH-HCW-0030-1,1.0714285,NEGATIVE,female,KLF,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,09dec1983,16oct2020,0,0,0,0,,30-39
+50,KCH-HCW-0031-1,1.2698412,NEGATIVE,male,KLF,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,14oct1970,16oct2020,0,0,0,0,,50-59
+27,KCH-HCW-0032-1,1.2222222,NEGATIVE,female,KLF,Laboratory,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,12apr1993,16oct2020,0,0,0,0,,18-29
+46,KCH-HCW-0033-1,1.0793651,NEGATIVE,female,KLF,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,16apr1974,19oct2020,0,0,0,0,,40-49
+24,KCH-HCW-0034-1,.96825397,NEGATIVE,female,KLF,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,04nov1995,19oct2020,0,0,0,0,,18-29
+23,KCH-HCW-0035-1,.93650794,NEGATIVE,male,KLF,Clinical Officer,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,19sep1997,19oct2020,0,0,0,0,,18-29
+28,KCH-HCW-0036-1,.97959179,NEGATIVE,male,KLF,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,20feb1992,19oct2020,0,0,0,0,,18-29
+27,KCH-HCW-0037-1,1.3333333,NEGATIVE,female,KLF,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,01oct1993,19oct2020,0,0,0,0,,18-29
+23,KCH-HCW-0038-1,.97278917,NEGATIVE,female,KLF,Clinical Officer,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,28may1997,19oct2020,0,0,0,0,,18-29
+26,KCH-HCW-0039-1,.7482993,NEGATIVE,female,KLF,Other,Counselor,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,02apr1994,19oct2020,0,0,0,0,,18-29
+100,KCH-HCW-0040-1,.89795917,NEGATIVE,female,KLF,Other,Counsellor,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,10oct1920,19oct2020,0,0,0,0,,>60
+24,KCH-HCW-0041-1,.96598643,NEGATIVE,male,KLF,Clinical Officer,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,27nov1995,19oct2020,0,0,0,0,,18-29
+48,KCH-HCW-0042-1,1.0862069,NEGATIVE,female,KLF,Clinical Officer,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,17jul1972,30nov2020,0,0,0,0,,40-49
+24,KCH-HCW-0043-1,.93877548,NEGATIVE,female,KLF,Clinical Officer,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,04oct1996,21oct2020,0,0,0,0,,18-29
+39,KCH-HCW-0044-1,.78231293,NEGATIVE,male,KLF,Clinical Officer,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,14jan1981,21oct2020,0,0,0,0,,30-39
+33,KCH-HCW-0045-1,.8174603,NEGATIVE,female,KLF,Other,Research Counselor,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,16feb1987,21oct2020,0,0,0,0,,30-39
+36,KCH-HCW-0046-1,2.7063491,POSITIVE,male,KLF,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,25feb1984,21oct2020,0,0,0,0,,30-39
+30,KCH-HCW-0047-1,.84126979,NEGATIVE,male,KLF,Laboratory,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,15jul2020,21jun1990,21oct2020,0,0,0,0,,30-39
+37,KCH-HCW-0048-1,1.3650794,NEGATIVE,female,KLF,Other,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,12dec1982,21oct2020,0,0,0,0,,30-39
+31,KCH-HCW-0049-1,1.1428571,NEGATIVE,female,KLF,Other,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,10mar1989,21oct2020,0,0,0,0,,30-39
+31,KCH-HCW-0050-1,.73015875,NEGATIVE,female,KLF,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,15feb1989,21oct2020,0,0,0,0,,30-39
+42,KCH-HCW-0051-1,1.7063493,NEGATIVE,female,KLF,Other,Counselor,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,17aug1978,21oct2020,0,0,0,0,,40-49
+32,KCH-HCW-0052-1,1.6349206,NEGATIVE,female,KLF,Support Staff,Fieldworker,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,09jan1988,22oct2020,0,0,0,0,,30-39
+28,KCH-HCW-0053-1,1.5462184,NEGATIVE,male,KLF,Doctor,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,24aug1992,22oct2020,0,0,0,0,,18-29
+51,KCH-HCW-0054-1,1.2436975,NEGATIVE,female,KLF,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,15may1969,22oct2020,0,0,0,0,,50-59
+51,KCH-HCW-0055-1,1.3109244,NEGATIVE,female,KLF,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,15may1969,22oct2020,0,0,0,0,,50-59
+25,KCH-HCW-0056-1,.81512606,NEGATIVE,male,KLF,Clinical Officer,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,09nov1994,22oct2020,0,0,0,0,,18-29
+23,KCH-HCW-0057-1,.93277311,NEGATIVE,female,KLF,Clinical Officer,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,31dec1996,22oct2020,0,0,0,0,,18-29
+28,KCH-HCW-0058-1,1.1848739,NEGATIVE,male,KLF,Doctor,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,27oct1991,22oct2020,0,0,0,0,,18-29
+35,KCH-HCW-0059-1,.91596633,NEGATIVE,male,KLF,Clinical Officer,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,02aug1985,22oct2020,0,0,0,0,,30-39
+40,KCH-HCW-0060-1,.8487395,NEGATIVE,male,KLF,Doctor,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,17mar1980,22oct2020,0,0,0,0,,40-49
+27,KCH-HCW-0061-1,.94957978,NEGATIVE,male,KLF,Doctor,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,01jun1993,22oct2020,0,0,0,0,,18-29
+34,KCH-HCW-0062-1,.94117647,NEGATIVE,female,KLF,Clinical Officer,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,15apr2020,30nov1985,22oct2020,0,0,0,0,,30-39
+39,KCH-HCW-0063-1,1.1848739,NEGATIVE,male,KLF,Support Staff,Fieldworker,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,16mar1981,23oct2020,0,0,0,0,,30-39
+28,KCH-HCW-0064-1,.89915967,NEGATIVE,male,KLF,Clinical Officer,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,04nov1991,23oct2020,0,0,0,0,,18-29
+24,KCH-HCW-0065-1,.9579832,NEGATIVE,male,KLF,Clinical Officer,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,22feb1996,23oct2020,0,0,0,0,,18-29
+27,KCH-HCW-0066-1,.7731092,NEGATIVE,male,KLF,Clinical Officer,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,10jun1993,23oct2020,0,0,0,0,,18-29
+43,KCH-HCW-0067-1,.86554623,NEGATIVE,female,KLF,Other,Counselor,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,22jul1977,23oct2020,0,0,0,0,,40-49
+57,KCH-HCW-0068-1,.94117647,NEGATIVE,female,KLF,Other,Counselor,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,07jul1963,23oct2020,0,0,0,0,,50-59
+25,KCH-HCW-0069-1,.94957978,NEGATIVE,male,KLF,Clinical Officer,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,20dec1994,23oct2020,0,0,0,0,,18-29
+26,KCH-HCW-0070-1,1.02521,NEGATIVE,male,KLF,Clinical Officer,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,14oct1994,23oct2020,0,0,0,0,,18-29
+54,KCH-HCW-0071-1,1.1176471,NEGATIVE,female,KLF,Nurse,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,15apr2020,17jul1966,23oct2020,0,0,0,0,,50-59
+29,KCH-HCW-0072-1,.94957978,NEGATIVE,female,KLF,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,19aug1991,23oct2020,0,0,0,0,,18-29
+30,KCH-HCW-0073-1,3.4033613,POSITIVE,female,KLF,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,24dec1989,23oct2020,0,0,0,0,,30-39
+22,KCH-HCW-0074-1,.89915967,NEGATIVE,female,KLF,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,14mar1998,23oct2020,0,0,0,0,,18-29
+46,KCH-HCW-0075-1,.72268909,NEGATIVE,female,KLF,Nurse,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,15apr2020,12dec1973,23oct2020,0,0,0,0,,40-49
+46,KCH-HCW-0076-1,.9579832,NEGATIVE,female,KLF,Support Staff,Fieldworker,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,25jun1974,23oct2020,0,0,0,0,,40-49
+44,KCH-HCW-0077-1,.63025212,NEGATIVE,female,KLF,Support Staff,Fieldworker,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,09feb1976,23oct2020,0,0,0,0,,40-49
+22,KCH-HCW-0078-1,1.0756303,NEGATIVE,female,KLF,Clinical Officer,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,05feb1998,23oct2020,0,0,0,0,,18-29
+40,KCH-HCW-0079-1,.73109239,NEGATIVE,female,KLF,Other,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,12jun1980,23oct2020,0,0,0,0,,40-49
+55,KCH-HCW-0080-1,.70588231,NEGATIVE,male,KLF,Clinical Officer,Anaesthetist,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,08sep1965,23oct2020,0,0,0,0,,50-59
+29,KCH-HCW-0081-1,1.0168067,NEGATIVE,female,KLF,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,24mar1991,26oct2020,0,0,0,0,,18-29
+42,KCH-HCW-0082-1,.60504198,NEGATIVE,male,KLF,Support Staff,Support Staff,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,15oct2020,18apr1978,26oct2020,0,0,0,0,,40-49
+46,KCH-HCW-0083-1,.91596633,NEGATIVE,male,KLF,Other,Mortuary Attendant,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,15jul1974,26oct2020,0,0,0,0,,40-49
+30,KCH-HCW-0084-1,.73949575,NEGATIVE,male,KLF,Other,Mortuary Attendant,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,26dec1989,26oct2020,0,0,0,0,,30-39
+66,KCH-HCW-0085-1,.92436969,NEGATIVE,male,KLF,Other,Mortuary Attendant,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,14jun1954,26oct2020,0,0,0,0,,>60
+48,KCH-HCW-0086-1,.67226887,NEGATIVE,female,KLF,Support Staff,Fieldworker,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,03mar1972,26oct2020,0,0,0,0,,40-49
+50,KCH-HCW-0087-1,.71428573,NEGATIVE,male,KLF,Support Staff,Fieldworker,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,01jul1970,26oct2020,0,0,0,0,,50-59
+42,KCH-HCW-0088-1,1.1512604,NEGATIVE,female,KLF,Support Staff,Support Staff,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,17may1978,26oct2020,0,0,0,0,,40-49
+28,KCH-HCW-0089-1,.66386557,NEGATIVE,female,KLF,Clinical Officer,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,26jun1992,27oct2020,0,0,0,0,,18-29
+38,KCH-HCW-0090-1,.53781515,NEGATIVE,male,KLF,Clinical Officer,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,25dec1981,27oct2020,0,0,0,0,,30-39
+25,KCH-HCW-0091-1,1.6386553,NEGATIVE,female,KLF,Clinical Officer,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,29apr1995,27oct2020,0,0,0,0,,18-29
+41,KCH-HCW-0092-1,.8487395,NEGATIVE,male,KLF,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,28sep1979,27oct2020,0,0,0,0,,40-49
+35,KCH-HCW-0093-1,.91596633,NEGATIVE,female,KLF,Doctor,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,24nov1984,28oct2020,0,0,0,0,,30-39
+43,KCH-HCW-0094-1,8.7226887,POSITIVE,female,KLF,Support Staff,Support Staff,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,06jul1977,28oct2020,0,0,0,0,,40-49
+53,KCH-HCW-0095-1,22.40336,POSITIVE,female,KLF,Support Staff,Support Staff,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,19dec1966,28oct2020,0,0,0,0,,50-59
+45,KCH-HCW-0096-1,1.1848739,NEGATIVE,male,KLF,Clinical Officer,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,15jan1975,28oct2020,0,0,0,0,,40-49
+36,KCH-HCW-0097-1,.69747895,NEGATIVE,male,KLF,Support Staff,Fieldworker,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,08aug1984,28oct2020,0,0,0,0,,30-39
+22,KCH-HCW-0098-1,3.3277309,POSITIVE,female,KLF,Other,Student,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,04oct1998,28oct2020,0,0,0,0,,18-29
+22,KCH-HCW-0099-1,.76470584,NEGATIVE,female,KLF,Clinical Officer,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,12apr1998,29oct2020,0,0,0,0,,18-29
+34,KCH-HCW-0100-1,.92436969,NEGATIVE,male,KLF,Support Staff,Ward Based Field Worker,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,25dec1985,29oct2020,0,0,0,0,,30-39
+26,KCH-HCW-0101-1,3.6974788,POSITIVE,female,KLF,Clinical Officer,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,30mar1994,30oct2020,0,0,0,0,,18-29
+35,KCH-HCW-0102-1,.75630254,NEGATIVE,female,KLF,Doctor,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,15jul2020,14dec1984,30oct2020,0,0,0,0,,30-39
+26,KCH-HCW-0103-1,.62184876,NEGATIVE,female,KLF,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,30apr1994,02nov2020,0,0,0,0,,18-29
+27,KCH-HCW-0104-1,.76470584,NEGATIVE,female,KLF,Other,Nutritionist,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,16jan1993,02nov2020,0,0,0,0,,18-29
+52,KCH-HCW-0105-1,1.0168067,NEGATIVE,female,KLF,Support Staff,Fieldworker,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,14sep1968,02nov2020,0,0,0,0,,50-59
+35,KCH-HCW-0106-1,1.2184874,NEGATIVE,male,KLF,Support Staff,Fieldworker,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,12dec1984,02nov2020,0,0,0,0,,30-39
+,KCH-HCW-0107-1,.89075625,NEGATIVE,female,KLF,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,15aug1979,,0,0,0,0,,
+32,KCH-HCW-0108-1,.93277311,NEGATIVE,female,KLF,Other,Nutritionist,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,11oct1988,02nov2020,0,0,0,0,,30-39
+57,KCH-HCW-0109-1,1.0672269,NEGATIVE,male,KLF,Support Staff,Fieldworker,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,30may1963,02nov2020,0,0,0,0,,50-59
+31,KCH-HCW-0110-1,1.5210084,NEGATIVE,female,KLF,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,18jul1989,04nov2020,0,0,0,0,,30-39
+30,KCH-HCW-0111-1,.94957978,NEGATIVE,male,KLF,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,29jan1990,04nov2020,0,0,0,0,,30-39
+43,KCH-HCW-0112-1,1.1344538,NEGATIVE,female,KLF,Nurse,,prev_swab_taken,Not known,,,,,,,,,,,,,,,,,,,,04nov2020,05jul1977,04nov2020,0,0,0,0,,40-49
+34,KCH-HCW-0113-1,.85714281,NEGATIVE,female,KLF,Doctor,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,26oct1986,04nov2020,0,0,0,0,,30-39
+30,KCH-HCW-0114-1,.68907565,NEGATIVE,female,KLF,Doctor,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,22jun1990,04nov2020,0,0,0,0,,30-39
+42,KCH-HCW-0115-1,.65546221,NEGATIVE,male,KLF,Doctor,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,28oct1978,04nov2020,0,0,0,0,,40-49
+42,KCH-HCW-0116-1,4.1848736,POSITIVE,male,KLF,Clinical Officer,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,15aug2020,28jul1978,05nov2020,0,0,0,0,,40-49
+29,KCH-HCW-0117-1,1.0168067,NEGATIVE,female,KLF,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,26jan1991,05nov2020,0,0,0,0,,18-29
+27,KCH-HCW-0118-1,.89915967,NEGATIVE,male,KLF,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,06dec1992,05nov2020,0,0,0,0,,18-29
+42,KCH-HCW-0119-1,.65546221,NEGATIVE,male,KLF,Support Staff,Fieldworker,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,15aug2020,22feb1978,05nov2020,0,0,0,0,,40-49
+39,KCH-HCW-0120-1,.89915967,NEGATIVE,female,KLF,Clinical Officer,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,19dec1980,05nov2020,0,0,0,0,,30-39
+58,KCH-HCW-0121-1,.92436969,NEGATIVE,male,KLF,Other,Pho,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,15apr2020,27jul1962,06nov2020,0,0,0,0,,50-59
+58,KCH-HCW-0122-1,.74789917,NEGATIVE,female,KLF,Nurse,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,15apr2020,12jun1962,06nov2020,0,0,0,0,,50-59
+38,KCH-HCW-0123-1,1.1008403,NEGATIVE,female,KLF,Clinical Officer,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,15apr2020,25nov1981,06nov2020,0,0,0,0,,30-39
+27,KCH-HCW-0124-1,.78991592,NEGATIVE,male,KLF,Support Staff,Fieldworker,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,27apr1993,06nov2020,0,0,0,0,,18-29
+23,KCH-HCW-0125-1,.69747895,NEGATIVE,female,KLF,Clinical Officer,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,18jun1997,06nov2020,0,0,0,0,,18-29
+38,KCH-HCW-0126-1,3.5986392,POSITIVE,female,KLF,Support Staff,Support Staff,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,27feb1982,10nov2020,0,0,0,0,,30-39
+41,KCH-HCW-0127-1,1.2789115,NEGATIVE,female,KLF,Support Staff,Support Staff,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,17mar1979,10nov2020,0,0,0,0,,40-49
+28,KCH-HCW-0128-1,.85714287,NEGATIVE,female,KLF,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,29mar1992,10nov2020,0,0,0,0,,18-29
+26,KCH-HCW-0129-1,1.2176871,NEGATIVE,male,KLF,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,24jul1994,10nov2020,0,0,0,0,,18-29
+28,KCH-HCW-0130-1,5.4421768,POSITIVE,male,KLF,Laboratory,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,24dec1991,10nov2020,0,0,0,0,,18-29
+52,KCH-HCW-0131-1,1.0544218,NEGATIVE,female,KLF,Laboratory,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,03apr1968,10nov2020,0,0,0,0,,50-59
+27,KCH-HCW-0132-1,.80952382,NEGATIVE,male,KLF,Support Staff,Sopport Staff ,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,26jun1993,10nov2020,0,0,0,0,,18-29
+53,KCH-HCW-0133-1,.87074834,NEGATIVE,male,KLF,Support Staff,Support Staff,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,01jan1967,10nov2020,0,0,0,0,,50-59
+59,KCH-HCW-0134-1,1.5862069,NEGATIVE,male,KLF,Support Staff,Support Staff,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,14oct1961,11nov2020,0,0,0,0,,50-59
+35,KCH-HCW-0135-1,.86206901,NEGATIVE,female,KLF,Pharmacy,Pharmacist,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,12jun1985,11nov2020,0,0,0,0,,30-39
+30,KCH-HCW-0136-1,.72413796,NEGATIVE,female,KLF,Clinical Officer,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,04may1990,11nov2020,0,0,0,0,,30-39
+31,KCH-HCW-0137-1,.54310346,NEGATIVE,female,KLF,Laboratory,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,05nov2020,27oct1989,12nov2020,0,0,0,0,,30-39
+27,KCH-HCW-0138-1,5.6551728,POSITIVE,female,KLF,Clinical Officer,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,15jun1993,12nov2020,0,0,0,0,,18-29
+30,KCH-HCW-0139-1,.81896555,NEGATIVE,male,KLF,Other,Health Records & Information Office,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,12feb1990,12nov2020,0,0,0,0,,30-39
+30,KCH-HCW-0140-1,.69827586,NEGATIVE,female,KLF,Other,Health Records & Information Officer,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,28apr1990,12nov2020,0,0,0,0,,30-39
+35,KCH-HCW-0141-1,.82758623,NEGATIVE,male,KLF,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,05may1985,16nov2020,0,0,0,0,,30-39
+39,KCH-HCW-0142-1,.7068966,NEGATIVE,male,KLF,Clinical Officer,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,15jul2020,02jun1981,16nov2020,0,0,0,0,,30-39
+35,KCH-HCW-0143-1,4.8706899,POSITIVE,female,KLF,Other,Occupational Therapist,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,04dec1984,16nov2020,0,0,0,0,,30-39
+46,KCH-HCW-0144-1,.87931037,NEGATIVE,male,KLF,Other,Physiotherapy,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,15oct2020,26may1974,16nov2020,0,0,0,0,,40-49
+28,KCH-HCW-0145-1,.71551722,NEGATIVE,male,KLF,Other,Physiotherapy,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,15sep2020,11may1992,16nov2020,0,0,0,0,,18-29
+29,KCH-HCW-0146-1,.63793105,NEGATIVE,female,KLF,Other,Physiotherapy,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,17sep1991,16nov2020,0,0,0,0,,18-29
+33,KCH-HCW-0147-1,1.0689656,NEGATIVE,female,KLF,Other,Physiotherapy,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,08jan1987,16nov2020,0,0,0,0,,30-39
+24,KCH-HCW-0148-1,1.4310344,NEGATIVE,male,KLF,Clinical Officer,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,15jul1996,18nov2020,0,0,0,0,,18-29
+40,KCH-HCW-0149-1,.73275864,NEGATIVE,male,KLF,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,13apr1980,18nov2020,0,0,0,0,,40-49
+39,KCH-HCW-0150-1,.67241383,NEGATIVE,female,KLF,Support Staff,Fieldworker,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,11nov1981,18nov2020,0,0,0,0,,30-39
+24,KCH-HCW-0151-1,.86206901,NEGATIVE,male,KLF,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,19jan1996,18nov2020,0,0,0,0,,18-29
+39,KCH-HCW-0152-1,.73275864,NEGATIVE,male,KLF,Pharmacy,Pharmacist,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,04feb1981,18nov2020,0,0,0,0,,30-39
+33,KCH-HCW-0153-1,.76724142,NEGATIVE,male,KLF,Pharmacy,Pharmacist,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,31oct1987,18nov2020,0,0,0,0,,30-39
+30,KCH-HCW-0154-1,.99137938,NEGATIVE,male,KLF,Doctor,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,27nov1989,18nov2020,0,0,0,0,,30-39
+26,KCH-HCW-0155-1,.81896555,NEGATIVE,female,KLF,Other,Data Manager,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,21may1994,18nov2020,0,0,0,0,,18-29
+36,KCH-HCW-0156-1,1.0344827,NEGATIVE,female,KLF,Other,Data Clerk,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,04aug1984,18nov2020,0,0,0,0,,30-39
+36,KCH-HCW-0157-1,1.1637932,NEGATIVE,female,KLF,Clinical Officer,Study Coordinator,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,10mar1984,18nov2020,0,0,0,0,,30-39
+56,KCH-HCW-0158-1,1.3534484,NEGATIVE,female,KLF,Nurse,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,15apr2020,12dec1963,19nov2020,0,0,0,0,,50-59
+32,KCH-HCW-0159-1,1,NEGATIVE,male,KLF,Other,Radiologist,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,15apr2020,27oct1988,19nov2020,0,0,0,0,,30-39
+39,KCH-HCW-0160-1,.83620697,NEGATIVE,female,KLF,Doctor,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,15nov2020,12feb1981,25nov2020,0,0,0,0,,30-39
+22,KCH-HCW-0161-1,1.0086207,NEGATIVE,female,KLF,Clinical Officer,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,01may1998,25nov2020,0,0,0,0,,18-29
+25,KCH-HCW-0162-1,3.5344827,POSITIVE,female,KLF,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,07aug1995,26nov2020,0,0,0,0,,18-29
+53,KCH-HCW-0163-1,.78448278,NEGATIVE,male,KLF,Other,Nutritionist,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,19nov1967,26nov2020,0,0,0,0,,50-59
+,KCH-HCW-0164-1,1.1724139,NEGATIVE,male,KLF,Other,Counsellor,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,09sep1987,,0,0,0,0,,
+43,KCH-HCW-0165-1,.93103451,NEGATIVE,male,KLF,Clinical Officer,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,17aug1977,27nov2020,0,0,0,0,,40-49
+33,KCH-HCW-0166-1,1.9482759,NEGATIVE,male,KLF,Clinical Officer,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,06oct1987,27nov2020,0,0,0,0,,30-39
+30,KCH-HCW-0167-1,.72413796,NEGATIVE,male,KLF,Laboratory,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,03jun1990,27nov2020,0,0,0,0,,30-39
+28,KCH-HCW-0168-1,1.1034484,NEGATIVE,female,KLF,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,18sep1992,30nov2020,0,0,0,0,,18-29
+30,KCH-HCW-0169-1,.73275864,NEGATIVE,female,KLF,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,10apr1990,30nov2020,0,0,0,0,,30-39
+27,KCH-HCW-0170-1,.96551728,NEGATIVE,female,KLF,Doctor,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,26jul1993,30nov2020,0,0,0,0,,18-29
+27,KCH-HCW-0171-1,2.7586207,POSITIVE,male,KLF,Clinical Officer,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,23sep1993,30nov2020,0,0,0,0,,18-29
+43,KCH-HCW-0172-1,1.1982759,NEGATIVE,female,KLF,Laboratory,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,04aug1977,30nov2020,0,0,0,0,,40-49
+48,KCH-HCW-0173-1,17,POSITIVE,male,KLF,Laboratory,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,12oct1972,30nov2020,0,0,0,0,,40-49
+26,KCH-HCW-0174-1,.84482759,NEGATIVE,female,KLF,Laboratory,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,04aug1994,30nov2020,0,0,0,0,,18-29
+41,KCH-HCW-0175-1,.98275864,NEGATIVE,male,KLF,Laboratory,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,17sep1979,30nov2020,0,0,0,0,,40-49
+34,KCH-HCW-0176-1,.67241383,NEGATIVE,male,KLF,Clinical Officer,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,15oct2020,26may1986,01dec2020,0,0,0,0,,30-39
+31,KCH-HCW-0177-1,.76724142,NEGATIVE,female,KLF,Other,Nutritionist,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,15oct2020,07dec1988,01dec2020,0,0,0,0,,30-39
+25,KCH-HCW-0178-1,10.724138,POSITIVE,female,KLF,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,18sep1995,01dec2020,0,0,0,0,,18-29
+56,KCH-HCW-0179-1,2.3017242,POSITIVE,female,KLF,Other,Records Clerk,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,06apr1964,01dec2020,0,0,0,0,,50-59
+33,KCH-HCW-0180-1,.68965518,NEGATIVE,female,KLF,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,11apr1987,01dec2020,0,0,0,0,,30-39
+23,KCH-HCW-0181-1,1.0689656,NEGATIVE,female,KLF,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,07jun1997,01dec2020,0,0,0,0,,18-29
+35,KCH-HCW-0182-1,1.0775863,NEGATIVE,male,KLF,Doctor,,prev_swab_taken,Negative,Last swab taken on 30-11-2020 awaiting results,,,,,,,,,,,,,,,,,,,15jun2020,04nov1985,03dec2020,0,0,0,0,,30-39
+30,KCH-HCW-0183-1,1.0689656,NEGATIVE,male,KLF,Doctor,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,07jan1990,03dec2020,0,0,0,0,,30-39
+26,KCH-HCW-0184-1,1.1896552,NEGATIVE,male,KLF,Clinical Officer,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,15sep1994,03dec2020,0,0,0,0,,18-29
+22,KCH-HCW-0185-1,.99137938,NEGATIVE,female,KLF,Clinical Officer,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,15jul2020,25sep1998,03dec2020,0,0,0,0,,18-29
+26,KCH-HCW-0186-1,6.3448277,POSITIVE,female,KLF,Doctor,,prev_swab_taken,Positive,,,,,,,,,,,,,,,,,,,,15jun2020,03dec1994,03dec2020,0,0,0,0,,18-29
+28,KCH-HCW-0187-1,.79310346,NEGATIVE,female,KLF,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,07jan1992,03dec2020,0,0,0,0,,18-29
+28,KCH-HCW-0188-1,.7758621,NEGATIVE,female,KLF,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,22aug1992,03dec2020,0,0,0,0,,18-29
+35,KCH-HCW-0189-1,.69827586,NEGATIVE,female,KLF,Clinical Officer,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,20feb1985,03dec2020,0,0,0,0,,30-39
+35,KCH-HCW-0190-1,1.1982759,NEGATIVE,male,KLF,Support Staff,Fieldworker,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,15apr1985,03dec2020,0,0,0,0,,30-39
+35,KCH-HCW-0191-1,5.6551728,POSITIVE,male,KLF,Laboratory,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,13sep1985,03dec2020,0,0,0,0,,30-39
+60,KCH-HCW-0192-1,.78448278,NEGATIVE,male,KLF,Support Staff,Support Staff,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,27may1960,03dec2020,0,0,0,0,,>60
+44,KCH-HCW-0193-1,.87931037,NEGATIVE,female,KLF,Other,Data Clerk,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,05feb1976,03dec2020,0,0,0,0,,40-49
+35,KCH-HCW-0194-1,.84482759,NEGATIVE,female,KLF,Other,Nutritionist,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,20apr1985,04dec2020,0,0,0,0,,30-39
+,KCH-HCW-0195-1,3.5603449,POSITIVE,female,KLF,Support Staff,Support Staff,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,15apr1972,,0,0,0,0,,
+24,KCH-HCW-0196-1,.69827586,NEGATIVE,male,KLF,Clinical Officer,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,23oct1996,04dec2020,0,0,0,0,,18-29
+32,KCH-HCW-0197-1,.82758623,NEGATIVE,female,KLF,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,07sep1988,04dec2020,0,0,0,0,,30-39
+45,KCH-HCW-0198-1,.7068966,NEGATIVE,male,KLF,Support Staff,Field Worker,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,24sep1975,04dec2020,0,0,0,0,,40-49
+51,KCH-HCW-0199-1,.63793105,NEGATIVE,male,KLF,Other,Mortician,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,15jun1969,04dec2020,0,0,0,0,,50-59
+32,KCH-HCW-0200-1,2.1724138,POSITIVE,female,KLF,Other,Mortician,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,15apr1988,04dec2020,0,0,0,0,,30-39
+49,BUS-HCW-0001-1,9.3457947,POSITIVE,male,BUS,Laboratory,,prev_swab_taken,Positive,,,,,,,,,,,,,,,,,,,,,18mar1971,23oct2020,0,0,0,0,BCRH,40-49
+51,BUS-HCW-0002-1,20.906542,POSITIVE,female,BUS,Doctor,,prev_swab_taken,Positive,,,,,,,,,,,,,,,,,,,,,22aug1969,23oct2020,0,0,0,0,BCRH,50-59
+57,BUS-HCW-0003-1,2.1775701,POSITIVE,male,BUS,Doctor,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,20dec1962,23oct2020,0,0,0,0,BCRH,50-59
+36,BUS-HCW-0004-1,.95327103,NEGATIVE,male,BUS,Laboratory,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,20jun1984,23oct2020,0,0,0,0,BCRH,30-39
+43,BUS-HCW-0005-1,1.0093458,NEGATIVE,female,BUS,Laboratory,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,12aug1977,23oct2020,0,0,0,0,BCRH,40-49
+50,BUS-HCW-0006-1,1.5700934,NEGATIVE,male,BUS,Laboratory,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,12dec1969,23oct2020,0,0,0,0,BCRH,50-59
+43,BUS-HCW-0007-1,.85981309,NEGATIVE,female,BUS,Laboratory,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,07sep1977,23oct2020,0,0,0,0,BCRH,40-49
+52,BUS-HCW-0008-1,1.2990654,NEGATIVE,female,BUS,Laboratory,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,18sep1968,23oct2020,0,0,0,0,BCRH,50-59
+31,BUS-HCW-0009-1,.93457943,NEGATIVE,male,BUS,Laboratory,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,05may1989,23oct2020,0,0,0,0,BCRH,30-39
+34,BUS-HCW-0010-1,1.5046729,NEGATIVE,male,BUS,Laboratory,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,26jun1986,23oct2020,0,0,0,0,BCRH,30-39
+38,BUS-HCW-0011-1,1.3551401,NEGATIVE,male,BUS,Laboratory,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,22may1982,23oct2020,0,0,0,0,BCRH,30-39
+40,BUS-HCW-0012-1,1.1214952,NEGATIVE,male,BUS,Laboratory,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,30nov1979,23oct2020,0,0,0,0,BCRH,40-49
+23,BUS-HCW-0013-1,1.3551401,NEGATIVE,male,BUS,Other,Supporting Staff,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,20aug1997,23oct2020,0,0,0,0,BCRH,18-29
+27,BUS-HCW-0014-1,1.4766356,NEGATIVE,female,BUS,Laboratory,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,22nov1992,23oct2020,0,0,0,0,BCRH,18-29
+38,BUS-HCW-0015-1,.9626168,NEGATIVE,female,BUS,Laboratory,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,02apr1982,23oct2020,0,0,0,0,BCRH,30-39
+40,BUS-HCW-0016-1,1.4205607,NEGATIVE,male,BUS,Laboratory,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,28dec1979,23oct2020,0,0,0,0,BCRH,40-49
+34,BUS-HCW-0017-1,3.364486,POSITIVE,male,BUS,Laboratory,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,25jan1986,23oct2020,0,0,0,0,BCRH,30-39
+31,BUS-HCW-0018-1,.72897196,NEGATIVE,male,BUS,Laboratory,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,01aug1989,23oct2020,0,0,0,0,BCRH,30-39
+58,BUS-HCW-0019-1,.90654206,NEGATIVE,female,BUS,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,23aug1962,23oct2020,0,0,0,0,BCRH,50-59
+53,BUS-HCW-0020-1,.99065417,NEGATIVE,male,BUS,Laboratory,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,21nov1966,23oct2020,0,0,0,0,BCRH,50-59
+36,BUS-HCW-0021-1,1.1028037,NEGATIVE,female,BUS,Laboratory,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,31jul1984,23oct2020,0,0,0,0,BCRH,30-39
+27,BUS-HCW-0022-1,1,NEGATIVE,male,BUS,Laboratory,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,18aug1993,23oct2020,0,0,0,0,BCRH,18-29
+27,BUS-HCW-0023-1,.88785046,NEGATIVE,female,BUS,Other,Hrio,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,27jan1993,23oct2020,0,0,0,0,BCRH,18-29
+41,BUS-HCW-0024-1,1.1121496,NEGATIVE,male,BUS,Laboratory,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,24apr1979,23oct2020,0,0,0,0,BCRH,40-49
+37,BUS-HCW-0025-1,10.196261,POSITIVE,female,BUS,Laboratory,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,26jun1983,23oct2020,0,0,0,0,BCRH,30-39
+29,BUS-HCW-0026-1,1.1682243,NEGATIVE,female,BUS,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,17jul1991,23oct2020,0,0,0,0,BCRH,18-29
+35,BUS-HCW-0027-1,1.6915888,NEGATIVE,female,BUS,Nurse,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,18sep1985,23oct2020,0,0,0,0,BCRH,30-39
+25,BUS-HCW-0028-1,1.3271028,NEGATIVE,male,BUS,Clinical Officer,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,23feb1995,23oct2020,0,0,0,0,BCRH,18-29
+26,BUS-HCW-0029-1,1.4112148,NEGATIVE,male,BUS,Nurse,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,06may1994,23oct2020,0,0,0,0,BCRH,18-29
+58,BUS-HCW-0030-1,.86915886,NEGATIVE,female,BUS,Nurse,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,30dec1961,23oct2020,0,0,0,0,BCRH,50-59
+37,BUS-HCW-0031-1,1.3271028,NEGATIVE,male,BUS,Pharmacy,Pharmacist,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,15feb1983,23oct2020,0,0,0,0,BCRH,30-39
+29,BUS-HCW-0032-1,1.3831775,NEGATIVE,female,BUS,Laboratory,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,06feb1991,23oct2020,0,0,0,0,BCRH,18-29
+49,BUS-HCW-0033-1,1.0186915,NEGATIVE,male,BUS,Laboratory,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,18aug1971,23oct2020,0,0,0,0,BCRH,40-49
+31,BUS-HCW-0034-1,1.8317757,NEGATIVE,male,BUS,Other,Chv,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,14sep1989,23oct2020,0,0,0,0,BCRH,30-39
+29,BUS-HCW-0035-1,.94392526,NEGATIVE,female,BUS,Nurse,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,30sep1991,23oct2020,0,0,0,0,BCRH,18-29
+54,BUS-HCW-0036-1,1.5140187,NEGATIVE,male,BUS,Support Staff,Security,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,04apr1966,23oct2020,0,0,0,0,BCRH,50-59
+46,BUS-HCW-0037-1,1,NEGATIVE,female,BUS,Nurse,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,31aug1974,23oct2020,0,0,0,0,BCRH,40-49
+30,BUS-HCW-0038-1,1.6542056,NEGATIVE,male,BUS,Support Staff,Security,prev_swab_taken,Not known,,,,,,,,,,,,,,,,,,,,,21sep1990,23oct2020,0,0,0,0,BCRH,30-39
+31,BUS-HCW-0039-1,.97196263,NEGATIVE,female,BUS,Other,Nutritionist,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,01oct1989,23oct2020,0,0,0,0,BCRH,30-39
+32,BUS-HCW-0040-1,1.4112148,NEGATIVE,female,BUS,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,22jul1988,23oct2020,0,0,0,0,BCRH,30-39
+44,BUS-HCW-0041-1,.99065417,NEGATIVE,male,BUS,Pharmacy,Pharmacist,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,16mar1976,23oct2020,0,0,0,0,BCRH,40-49
+40,BUS-HCW-0042-1,1.364486,NEGATIVE,male,BUS,Support Staff,Security,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,02feb1980,23oct2020,0,0,0,0,BCRH,40-49
+50,BUS-HCW-0043-1,.90654206,NEGATIVE,male,BUS,Laboratory,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,30oct1969,23oct2020,0,0,0,0,BCRH,50-59
+43,BUS-HCW-0044-1,.72897196,NEGATIVE,female,BUS,Support Staff,Social Worker,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,05nov1976,23oct2020,0,0,0,0,BCRH,40-49
+59,BUS-HCW-0045-1,1.2056074,NEGATIVE,female,BUS,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,27jul1961,23oct2020,0,0,0,0,BCRH,50-59
+52,BUS-HCW-0046-1,.81308407,NEGATIVE,female,BUS,Laboratory,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,12apr1968,23oct2020,0,0,0,0,BCRH,50-59
+40,BUS-HCW-0047-1,1.2336448,NEGATIVE,female,BUS,Laboratory,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,26dec1979,23oct2020,0,0,0,0,BCRH,40-49
+24,BUS-HCW-0048-1,2.0560749,POSITIVE,female,BUS,Laboratory,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,26aug1996,23oct2020,0,0,0,0,BCRH,18-29
+26,BUS-HCW-0049-1,.88785046,NEGATIVE,male,BUS,Clinical Officer,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,29jul1994,23oct2020,0,0,0,0,BCRH,18-29
+29,BUS-HCW-0050-1,1.2056074,NEGATIVE,male,BUS,Other,Physiotherepy,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,09dec1990,23oct2020,0,0,0,0,BCRH,18-29
+38,BUS-HCW-0051-1,1.046729,NEGATIVE,female,BUS,Nurse,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,09may1982,23oct2020,0,0,0,0,BCRH,30-39
+52,BUS-HCW-0052-1,1.4766356,NEGATIVE,male,BUS,Other,Human Resource,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,20nov1967,23oct2020,0,0,0,0,BCRH,50-59
+29,BUS-HCW-0053-1,.8224299,NEGATIVE,male,BUS,Other,Hts,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,09mar1991,23oct2020,0,0,0,0,BCRH,18-29
+30,BUS-HCW-0054-1,.94392526,NEGATIVE,female,BUS,Other,Nutritionist,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,21may1990,23oct2020,0,0,0,0,BCRH,30-39
+45,BUS-HCW-0055-1,1.3831775,NEGATIVE,male,BUS,Support Staff,Driver,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,18apr1975,23oct2020,0,0,0,0,BCRH,40-49
+27,BUS-HCW-0056-1,.97196263,NEGATIVE,male,BUS,Support Staff,Social Worker,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,01feb1993,23oct2020,0,0,0,0,BCRH,18-29
+26,BUS-HCW-0057-1,1.7850467,NEGATIVE,male,BUS,Other,Kitchen Staff,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,07feb1994,23oct2020,0,0,0,0,BCRH,18-29
+29,BUS-HCW-0058-1,1.3364487,NEGATIVE,male,BUS,Other,Kitchen Staff,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,01feb1991,23oct2020,0,0,0,0,BCRH,18-29
+53,BUS-HCW-0059-1,1.1775701,NEGATIVE,female,BUS,Nurse,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,10nov1966,23oct2020,0,0,0,0,BCRH,50-59
+56,BUS-HCW-0060-1,1.4485981,NEGATIVE,female,BUS,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,04may1964,23oct2020,0,0,0,0,BCRH,50-59
+49,BUS-HCW-0061-1,.90654206,NEGATIVE,female,BUS,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,27dec1970,23oct2020,0,0,0,0,BCRH,40-49
+26,BUS-HCW-0062-1,.86915886,NEGATIVE,female,BUS,Other,Kitchen Staff,prev_swab_taken,Not known,,,,,,,,,,,,,,,,,,,,,17jun1994,23oct2020,0,0,0,0,BCRH,18-29
+26,BUS-HCW-0063-1,1.682243,NEGATIVE,male,BUS,Doctor,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,19oct1994,23oct2020,0,0,0,0,BCRH,18-29
+36,BUS-HCW-0064-1,1.5607476,NEGATIVE,male,BUS,Pharmacy,Pharmacist,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,09may1984,23oct2020,0,0,0,0,BCRH,30-39
+29,BUS-HCW-0065-1,8.3831778,POSITIVE,female,BUS,Doctor,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,18sep1991,23oct2020,0,0,0,0,BCRH,18-29
+37,BUS-HCW-0066-1,1.2803738,NEGATIVE,male,BUS,Laboratory,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,01mar1983,23oct2020,0,0,0,0,BCRH,30-39
+36,BUS-HCW-0067-1,.92523366,NEGATIVE,male,BUS,Laboratory,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,02jan1984,23oct2020,0,0,0,0,BCRH,30-39
+25,BUS-HCW-0068-1,1.1121496,NEGATIVE,female,BUS,Clinical Officer,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,26dec1994,23oct2020,0,0,0,0,BCRH,18-29
+45,BUS-HCW-0069-1,2.1962616,POSITIVE,female,BUS,Other,Kitchen Staff,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,05feb1975,23oct2020,0,0,0,0,BCRH,40-49
+37,BUS-HCW-0070-1,1.1775701,NEGATIVE,female,BUS,Other,Kitchen Staff,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,10mar1983,23oct2020,0,0,0,0,BCRH,30-39
+46,BUS-HCW-0071-1,15.06542,POSITIVE,female,BUS,Nurse,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,31jul1974,23oct2020,0,0,0,0,Kocholia,40-49
+30,BUS-HCW-0072-1,1.3364487,NEGATIVE,male,BUS,Support Staff,Ambulance Driver,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,11dec1989,23oct2020,0,0,0,0,Kocholia,30-39
+31,BUS-HCW-0073-1,.66666663,NEGATIVE,male,BUS,Other,Health Record Officer ,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,01aug1989,23oct2020,0,0,0,0,Kocholia,30-39
+45,BUS-HCW-0074-1,.90476191,NEGATIVE,male,BUS,Support Staff,Support Staff,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,17jun1975,23oct2020,0,0,0,0,Kocholia,40-49
+51,BUS-HCW-0075-1,.97278917,NEGATIVE,male,BUS,Support Staff,Driver,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,16mar1969,23oct2020,0,0,0,0,Kocholia,50-59
+25,BUS-HCW-0076-1,1.3401361,NEGATIVE,male,BUS,Other,Procurement Officer,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,12dec1994,23oct2020,0,0,0,0,Kocholia,18-29
+24,BUS-HCW-0077-1,1.5918367,NEGATIVE,female,BUS,Other,Procurement Officer,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,20jun1996,23oct2020,0,0,0,0,Kocholia,18-29
+29,BUS-HCW-0078-1,1.8367348,NEGATIVE,male,BUS,Support Staff,Cleaner,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,18jan1991,23oct2020,0,0,0,0,Kocholia,18-29
+23,BUS-HCW-0079-1,.75510204,NEGATIVE,female,BUS,Other,Accountant,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,29dec1996,23oct2020,0,0,0,0,Kocholia,18-29
+25,BUS-HCW-0080-1,1.2517006,NEGATIVE,female,BUS,Other,Secretary,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,25jun1995,23oct2020,0,0,0,0,Kocholia,18-29
+57,BUS-HCW-0081-1,.8224299,NEGATIVE,male,BUS,Support Staff,Cleaner,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,27dec1962,23oct2020,0,0,0,0,Kocholia,50-59
+38,BUS-HCW-0082-1,1.1682243,NEGATIVE,female,BUS,Nurse,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,11oct1982,23oct2020,0,0,0,0,Kocholia,30-39
+40,BUS-HCW-0083-1,.99065417,NEGATIVE,female,BUS,Support Staff,Casual Worker,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,02mar1980,23oct2020,0,0,0,0,Kocholia,40-49
+31,BUS-HCW-0084-1,.8224299,NEGATIVE,female,BUS,Support Staff,Chef,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,12jan1989,23oct2020,0,0,0,0,Kocholia,30-39
+39,BUS-HCW-0085-1,2.9813085,POSITIVE,female,BUS,Clinical Officer,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,21jul2020,21may1981,23oct2020,0,0,0,0,Kocholia,30-39
+35,BUS-HCW-0086-1,1.0560747,NEGATIVE,male,BUS,Other,Councelor,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,21jul2020,09jan1985,23oct2020,0,0,0,0,Kocholia,30-39
+27,BUS-HCW-0087-1,1.4579439,NEGATIVE,female,BUS,Clinical Officer,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,30apr1993,23oct2020,0,0,0,0,Kocholia,18-29
+25,BUS-HCW-0088-1,1,NEGATIVE,male,BUS,Laboratory,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,21jul2020,27oct1994,23oct2020,0,0,0,0,Kocholia,18-29
+25,BUS-HCW-0089-1,17.882353,POSITIVE,male,BUS,Nurse,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,21jul2020,24jan1995,23oct2020,0,0,0,0,Kocholia,18-29
+41,BUS-HCW-0090-1,1.4705882,NEGATIVE,male,BUS,Other,Councelor,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,23dec1978,23oct2020,0,0,0,0,Kocholia,40-49
+35,BUS-HCW-0091-1,1,NEGATIVE,male,BUS,Clinical Officer,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,10nov1984,23oct2020,0,0,0,0,Kocholia,30-39
+33,BUS-HCW-0092-1,1.7899159,NEGATIVE,male,BUS,Laboratory,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,12mar1987,23oct2020,0,0,0,0,Kocholia,30-39
+26,BUS-HCW-0093-1,1.5042017,NEGATIVE,female,BUS,Laboratory,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,25aug1994,23oct2020,0,0,0,0,Alupe,18-29
+50,BUS-HCW-0094-1,1.7815125,NEGATIVE,male,BUS,Laboratory,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,14apr1970,23oct2020,0,0,0,0,Alupe,50-59
+33,BUS-HCW-0095-1,1.0840335,NEGATIVE,male,BUS,Laboratory,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,26nov1986,23oct2020,0,0,0,0,Alupe,30-39
+30,BUS-HCW-0096-1,1.2268907,NEGATIVE,female,BUS,Support Staff,Social Worker,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,08aug1990,23oct2020,0,0,0,0,Alupe,30-39
+34,BUS-HCW-0097-1,1.0084033,NEGATIVE,female,BUS,Support Staff,Casual,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,10apr1986,23oct2020,0,0,0,0,Alupe,30-39
+28,BUS-HCW-0098-1,1.3277311,NEGATIVE,male,BUS,Support Staff,Casual,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,01jan1992,23oct2020,0,0,0,0,Alupe,18-29
+53,BUS-HCW-0099-1,2.344538,POSITIVE,male,BUS,Support Staff,Sub-Staff,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,01feb1967,23oct2020,0,0,0,0,Alupe,50-59
+42,BUS-HCW-0100-1,1.1344538,NEGATIVE,male,BUS,Support Staff,Sub-Staff,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,20jul1978,23oct2020,0,0,0,0,Alupe,40-49
+27,BUS-HCW-0101-1,1.420168,NEGATIVE,male,BUS,Support Staff,Casual,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,12feb1993,23oct2020,0,0,0,0,Alupe,18-29
+42,BUS-HCW-0102-1,1.1764705,NEGATIVE,male,BUS,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,09sep1978,23oct2020,0,0,0,0,Alupe,40-49
+30,BUS-HCW-0103-1,.87394959,NEGATIVE,male,BUS,Clinical Officer,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,12oct2020,15nov1989,23oct2020,0,0,0,0,Alupe,30-39
+29,BUS-HCW-0104-1,1.3109244,NEGATIVE,female,BUS,Doctor,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,28jun1991,23oct2020,0,0,0,0,Alupe,18-29
+26,BUS-HCW-0105-1,1.0420167,NEGATIVE,male,BUS,Pharmacy,Pharmacist,prev_swab_taken,,,,,,,,,,,,,,,,,,,,,,06oct1994,23oct2020,0,0,0,0,Alupe,18-29
+23,BUS-HCW-0106-1,1.0420167,NEGATIVE,female,BUS,Support Staff,Casual,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,07dec1996,23oct2020,0,0,0,0,Alupe,18-29
+50,BUS-HCW-0107-1,1.1008403,NEGATIVE,female,BUS,Support Staff,Casual,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,01jan1970,23oct2020,0,0,0,0,Alupe,50-59
+37,BUS-HCW-0108-1,1.3949579,NEGATIVE,female,BUS,Support Staff,Sub-Staff,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,30nov1982,23oct2020,0,0,0,0,Alupe,30-39
+33,BUS-HCW-0109-1,.9579832,NEGATIVE,male,BUS,Support Staff,Sub-Staff,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,30nov1986,23oct2020,0,0,0,0,Alupe,30-39
+39,BUS-HCW-0110-1,1.3781513,NEGATIVE,female,BUS,Support Staff,Sub-Staff,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,06feb1981,23oct2020,0,0,0,0,Alupe,30-39
+46,BUS-HCW-0111-1,.84033614,NEGATIVE,male,BUS,Support Staff,Sub-Staff,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,12dec1973,23oct2020,0,0,0,0,Alupe,40-49
+34,BUS-HCW-0112-1,1.5546218,NEGATIVE,male,BUS,Support Staff,Sub-Staff,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,18aug1986,23oct2020,0,0,0,0,Alupe,30-39
+54,BUS-HCW-0113-1,.71428573,NEGATIVE,male,BUS,Support Staff,Sub-Staff,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,22dec1965,23oct2020,0,0,0,0,Alupe,50-59
+24,BUS-HCW-0114-1,2.1428571,POSITIVE,male,BUS,Other,G.Psychologist,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,04aug1996,23oct2020,0,0,0,0,Alupe,18-29
+30,BUS-HCW-0115-1,.89075625,NEGATIVE,female,BUS,Support Staff,Social Worker,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,31mar1990,23oct2020,0,0,0,0,Alupe,30-39
+34,BUS-HCW-0116-1,1.1680672,NEGATIVE,male,BUS,Clinical Officer,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,08jun1986,23oct2020,0,0,0,0,Alupe,30-39
+33,BUS-HCW-0117-1,.73109239,NEGATIVE,female,BUS,Support Staff,Medical Social Worker,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,14aug1987,23oct2020,0,0,0,0,Alupe,30-39
+31,BUS-HCW-0118-1,1.2689074,NEGATIVE,male,BUS,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,21jun1989,23oct2020,0,0,0,0,Alupe,30-39
+22,BUS-HCW-0119-1,7.6722684,POSITIVE,male,BUS,Support Staff,Sub-Staff,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,09jul1998,23oct2020,0,0,0,0,Alupe,18-29
+27,BUS-HCW-0120-1,1.2016807,NEGATIVE,female,BUS,Other,Hrio,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,18oct1993,23oct2020,0,0,0,0,Alupe,18-29
+24,BUS-HCW-0121-1,1.2773108,NEGATIVE,female,BUS,Other,Hrio,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,12jul1996,23oct2020,0,0,0,0,Alupe,18-29
+28,BUS-HCW-0122-1,1.1764705,NEGATIVE,male,BUS,Laboratory,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,30oct1991,23oct2020,0,0,0,0,Alupe,18-29
+30,BUS-HCW-0123-1,2.1428571,POSITIVE,male,BUS,Other,Record Officer,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,17jun1990,23oct2020,0,0,0,0,Alupe,30-39
+32,BUS-HCW-0124-1,1.0924369,NEGATIVE,male,BUS,Clinical Officer,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,02dec1987,23oct2020,0,0,0,0,Alupe,30-39
+23,BUS-HCW-0125-1,.99159664,NEGATIVE,male,BUS,Other,Othopaedic Trauma,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,07nov1996,23oct2020,0,0,0,0,Alupe,18-29
+47,BUS-HCW-0126-1,.73949575,NEGATIVE,female,BUS,Support Staff,Sub-Staff,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,22nov1972,23oct2020,0,0,0,0,Alupe,40-49
+24,BUS-HCW-0127-1,.84033614,NEGATIVE,female,BUS,Support Staff,Sub-Staff,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,16mar1996,23oct2020,0,0,0,0,Alupe,18-29
+38,BUS-HCW-0128-1,1.1008403,NEGATIVE,male,BUS,Support Staff,Sub-Staff,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,02jan1982,23oct2020,0,0,0,0,Alupe,30-39
+52,BUS-HCW-0129-1,1.5714285,NEGATIVE,female,BUS,Support Staff,Sub-Staff,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,12jan1968,23oct2020,0,0,0,0,Alupe,50-59
+55,BUS-HCW-0130-1,.98319322,NEGATIVE,female,BUS,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,15jun1965,23oct2020,0,0,0,0,Alupe,50-59
+22,BUS-HCW-0131-1,1.3949579,NEGATIVE,male,BUS,Support Staff,Sub-Staff,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,14apr1998,23oct2020,0,0,0,0,Alupe,18-29
+26,BUS-HCW-0132-1,1.1428572,NEGATIVE,female,BUS,Other,Hts Provider,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,09oct1994,23oct2020,0,0,0,0,Alupe,18-29
+32,BUS-HCW-0133-1,1.4369748,NEGATIVE,female,BUS,Pharmacy,Pharmtech,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,06aug1988,23oct2020,0,0,0,0,Alupe,30-39
+28,BUS-HCW-0134-1,1.1932774,NEGATIVE,female,BUS,Clinical Officer,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,28nov1991,23oct2020,0,0,0,0,Alupe,18-29
+28,BUS-HCW-0135-1,1.2268907,NEGATIVE,female,BUS,Other,Link Desk Person,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,09mar1992,23oct2020,0,0,0,0,Alupe,18-29
+48,BUS-HCW-0136-1,1.1764705,NEGATIVE,female,BUS,Other,Hcw,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,15apr1972,23oct2020,0,0,0,0,Alupe,40-49
+33,BUS-HCW-0137-1,1.0672269,NEGATIVE,male,BUS,Support Staff,Casual,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,22dec1986,23oct2020,0,0,0,0,Alupe,30-39
+28,BUS-HCW-0138-1,1.2352941,NEGATIVE,female,BUS,Other,Hts Provider,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,20aug1992,23oct2020,0,0,0,0,Alupe,18-29
+28,BUS-HCW-0139-1,1.0168067,NEGATIVE,female,BUS,Other,Hro,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,06aug1992,23oct2020,0,0,0,0,Alupe,18-29
+40,BUS-HCW-0140-1,.98319322,NEGATIVE,female,BUS,Other,Nutritionist,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,10oct1980,23oct2020,0,0,0,0,Alupe,40-49
+,BUS-HCW-0141-1,1.2689074,NEGATIVE,female,BUS,Other,Nutritionist,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,,23oct2020,0,0,0,0,Alupe,
+26,BUS-HCW-0142-1,1.2521008,NEGATIVE,female,BUS,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,20dec1993,23oct2020,0,0,0,0,Alupe,18-29
+55,BUS-HCW-0143-1,4.2436972,POSITIVE,female,BUS,Laboratory,,prev_swab_taken,Positive,,,,,,,,,,,,,,,,,,,,15sep2020,01jul1965,23oct2020,0,0,0,0,BCRH,50-59
+49,BUS-HCW-0144-1,1.3781513,NEGATIVE,female,BUS,Laboratory,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,17mar2020,17jun1971,23oct2020,0,0,0,0,BCRH,40-49
+24,BUS-HCW-0145-1,.94117647,NEGATIVE,female,BUS,Clinical Officer,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,23feb1996,23oct2020,0,0,0,0,BCRH,18-29
+40,BUS-HCW-0146-1,1.7310925,NEGATIVE,male,BUS,Support Staff,Casual Worker,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,05may1980,23oct2020,0,0,0,0,BCRH,40-49
+25,BUS-HCW-0147-1,2.0924368,POSITIVE,male,BUS,Support Staff,Security,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,02aug1995,23oct2020,0,0,0,0,BCRH,18-29
+23,BUS-HCW-0148-1,8.8907557,POSITIVE,male,BUS,Clinical Officer,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,26oct1996,23oct2020,0,0,0,0,BCRH,18-29
+33,BUS-HCW-0149-1,1.1344538,NEGATIVE,female,BUS,Nurse,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,04dec1986,23oct2020,0,0,0,0,BCRH,30-39
+23,BUS-HCW-0150-1,1.3949579,NEGATIVE,male,BUS,Other,Nutritionist,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,06jun1997,23oct2020,0,0,0,0,BCRH,18-29
+58,BUS-HCW-0151-1,1.2184874,NEGATIVE,female,BUS,Support Staff,Sub-Ordinate Staff,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,17jul1962,23oct2020,0,0,0,0,BCRH,50-59
+48,BUS-HCW-0152-1,.97478986,NEGATIVE,female,BUS,Support Staff,Support Staff,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,17apr2020,26jun1972,23oct2020,0,0,0,0,BCRH,40-49
+35,BUS-HCW-0153-1,2.5630252,POSITIVE,female,BUS,Other,Clerk,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,11aug1985,23oct2020,0,0,0,0,BCRH,30-39
+30,BUS-HCW-0154-1,1.8487394,NEGATIVE,male,BUS,Clinical Officer,,prev_swab_taken,Positive,,,,,,,,,,,,,,,,,,,,17aug2020,10nov1989,23oct2020,0,0,0,0,BCRH,30-39
+39,BUS-HCW-0155-1,18.857141,POSITIVE,male,BUS,Support Staff,Casual,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,25dec1980,23oct2020,0,0,0,0,BCRH,30-39
+26,BUS-HCW-0156-1,.75630254,NEGATIVE,female,BUS,Clinical Officer,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,03may1994,23oct2020,0,0,0,0,BCRH,18-29
+24,BUS-HCW-0157-1,1.3109244,NEGATIVE,female,BUS,Clinical Officer,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,04sep1996,23oct2020,0,0,0,0,BCRH,18-29
+38,BUS-HCW-0158-1,.89075625,NEGATIVE,male,BUS,Support Staff,Casual,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,26aug1982,23oct2020,0,0,0,0,BCRH,30-39
+25,BUS-HCW-0159-1,2.9831932,POSITIVE,male,BUS,Clinical Officer,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,04apr1995,23oct2020,0,0,0,0,BCRH,18-29
+54,BUS-HCW-0160-1,.91596633,NEGATIVE,female,BUS,Nurse,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,05jan1966,23oct2020,0,0,0,0,BCRH,50-59
+29,BUS-HCW-0161-1,1.2789115,NEGATIVE,female,BUS,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,30aug1991,23oct2020,0,0,0,0,BCRH,18-29
+52,BUS-HCW-0162-1,7.0816326,POSITIVE,female,BUS,Nurse,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,24apr1968,23oct2020,0,0,0,0,BCRH,50-59
+51,BUS-HCW-0163-1,1.1564626,NEGATIVE,male,BUS,Nurse,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,27sep1969,23oct2020,0,0,0,0,BCRH,50-59
+24,BUS-HCW-0164-1,.96598643,NEGATIVE,male,BUS,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,07jun1996,23oct2020,0,0,0,0,BCRH,18-29
+35,BUS-HCW-0165-1,.97278917,NEGATIVE,male,BUS,Other,Mortician,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,06feb1985,23oct2020,0,0,0,0,BCRH,30-39
+57,BUS-HCW-0166-1,.66666663,NEGATIVE,male,BUS,Other,Procurement,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,13aug1963,23oct2020,0,0,0,0,BCRH,50-59
+27,BUS-HCW-0167-1,1.0884353,NEGATIVE,male,BUS,Other,Biomet,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,08feb1993,23oct2020,0,0,0,0,BCRH,18-29
+52,BUS-HCW-0168-1,.65986395,NEGATIVE,male,BUS,Support Staff,Cleaner,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,01jan1968,23oct2020,0,0,0,0,BCRH,50-59
+25,BUS-HCW-0169-1,.78151262,NEGATIVE,female,BUS,Other,Procurement,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,16jul1995,23oct2020,0,0,0,0,BCRH,18-29
+36,BUS-HCW-0170-1,.9579832,NEGATIVE,female,BUS,Other,Clerical Officer,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,12oct1984,23oct2020,0,0,0,0,BCRH,30-39
+39,BUS-HCW-0171-1,1.3109244,NEGATIVE,male,BUS,Other,Chw,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,27jul1981,23oct2020,0,0,0,0,BCRH,30-39
+42,BUS-HCW-0172-1,1.1260505,NEGATIVE,male,BUS,Other,Biomed,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,01apr1978,23oct2020,0,0,0,0,BCRH,40-49
+50,BUS-HCW-0173-1,1.3361344,NEGATIVE,female,BUS,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,30jul1970,23oct2020,0,0,0,0,BCRH,50-59
+25,BUS-HCW-0174-1,1.4117646,NEGATIVE,female,BUS,Nurse,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,20jan1995,23oct2020,0,0,0,0,BCRH,18-29
+37,BUS-HCW-0175-1,2.5630252,POSITIVE,male,BUS,Other,Ict Officer,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,02dec1982,23oct2020,0,0,0,0,BCRH,30-39
+44,BUS-HCW-0176-1,1.1680672,NEGATIVE,female,BUS,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,24sep1976,23oct2020,0,0,0,0,BCRH,40-49
+28,BUS-HCW-0177-1,1.389313,NEGATIVE,female,BUS,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,17nov1991,23oct2020,0,0,0,0,BCRH,18-29
+26,BUS-HCW-0178-1,1.1603054,NEGATIVE,male,BUS,Nurse,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,06apr1994,23oct2020,0,0,0,0,BCRH,18-29
+26,BUS-HCW-0179-1,.76335883,NEGATIVE,female,BUS,Nurse,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,22may1994,23oct2020,0,0,0,0,BCRH,18-29
+48,BUS-HCW-0180-1,1.3206106,NEGATIVE,female,BUS,Nurse,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,17may1972,23oct2020,0,0,0,0,BCRH,40-49
+52,BUS-HCW-0181-1,.83206105,NEGATIVE,female,BUS,Nurse,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,17jun1968,23oct2020,0,0,0,0,BCRH,50-59
+46,BUS-HCW-0182-1,1.2900764,NEGATIVE,female,BUS,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,05may1974,23oct2020,0,0,0,0,BCRH,40-49
+26,BUS-HCW-0183-1,.81679392,NEGATIVE,female,BUS,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,20apr1994,23oct2020,0,0,0,0,BCRH,18-29
+29,BUS-HCW-0184-1,1.6946565,NEGATIVE,female,BUS,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,06nov1990,23oct2020,0,0,0,0,BCRH,18-29
+28,BUS-HCW-0185-1,1.221374,NEGATIVE,female,BUS,Clinical Officer,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,17sep2020,03feb1992,23oct2020,0,0,0,0,BCRH,18-29
+33,BUS-HCW-0186-1,1.1374047,NEGATIVE,female,BUS,Other,Pho,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,21mar1987,23oct2020,0,0,0,0,BCRH,30-39
+26,BUS-HCW-0187-1,.9770993,NEGATIVE,male,BUS,Other,Hts,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,17dec1993,23oct2020,0,0,0,0,BCRH,18-29
+49,BUS-HCW-0188-1,.81679392,NEGATIVE,male,BUS,Support Staff,Casual,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,09jan1971,23oct2020,0,0,0,0,BCRH,40-49
+28,BUS-HCW-0189-1,1.0839695,NEGATIVE,female,BUS,Other,Nutritionist,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,09dec1991,23oct2020,0,0,0,0,BCRH,18-29
+34,BUS-HCW-0190-1,15.564886,POSITIVE,male,BUS,Laboratory,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,07oct1986,23oct2020,0,0,0,0,BCRH,30-39
+44,BUS-HCW-0191-1,.87022901,NEGATIVE,male,BUS,Nurse,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,04apr1976,23oct2020,0,0,0,0,BCRH,40-49
+57,BUS-HCW-0192-1,.87786263,NEGATIVE,female,BUS,Support Staff,Casual,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,22may1963,23oct2020,0,0,0,0,BCRH,50-59
+37,BUS-HCW-0193-1,.7709924,NEGATIVE,female,BUS,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,23sep1983,23oct2020,0,0,0,0,BCRH,30-39
+31,BUS-HCW-0194-1,.76335883,NEGATIVE,female,BUS,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,05may1989,23oct2020,0,0,0,0,BCRH,30-39
+50,BUS-HCW-0195-1,.94656491,NEGATIVE,female,BUS,Nurse,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,23sep1970,23oct2020,0,0,0,0,BCRH,50-59
+38,BUS-HCW-0196-1,.82442755,NEGATIVE,female,BUS,Nurse,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,27aug1982,23oct2020,0,0,0,0,BCRH,30-39
+37,BUS-HCW-0197-1,1.0687023,NEGATIVE,female,BUS,Clinical Officer,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,31aug1983,23oct2020,0,0,0,0,BCRH,30-39
+39,BUS-HCW-0198-1,.96183211,NEGATIVE,male,BUS,Nurse,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,12feb1981,23oct2020,0,0,0,0,BCRH,30-39
+30,BUS-HCW-0199-1,2.6412213,POSITIVE,male,BUS,Laboratory,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,17may2020,25apr1990,23oct2020,0,0,0,0,BCRH,30-39
+33,BUS-HCW-0200-1,1.1221374,NEGATIVE,male,BUS,Laboratory,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,02jan1987,23oct2020,0,0,0,0,BCRH,30-39
+24,BUS-HCW-0201-1,1.0687023,NEGATIVE,male,BUS,Doctor,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,02feb1996,23oct2020,0,0,0,0,BCRH,18-29
+55,BUS-HCW-0202-1,.80152673,NEGATIVE,male,BUS,Doctor,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,05nov1964,23oct2020,0,0,0,0,BCRH,50-59
+35,BUS-HCW-0203-1,.98473281,NEGATIVE,female,BUS,Pharmacy,Pharmacist,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,26nov1984,23oct2020,0,0,0,0,BCRH,30-39
+30,BUS-HCW-0204-1,.87786263,NEGATIVE,male,BUS,Laboratory,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,05jan1990,23oct2020,0,0,0,0,BCRH,30-39
+34,BUS-HCW-0205-1,2.1450381,POSITIVE,female,BUS,Support Staff,Social Worker,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,01jul1986,23oct2020,0,0,0,0,BCRH,30-39
+32,BUS-HCW-0206-1,1.0763359,NEGATIVE,female,BUS,Other,Admin,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,04apr1988,23oct2020,0,0,0,0,BCRH,30-39
+27,BUS-HCW-0207-1,1.0687023,NEGATIVE,female,BUS,Support Staff,Social Worker,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,04may1993,23oct2020,0,0,0,0,BCRH,18-29
+30,BUS-HCW-0208-1,.87786263,NEGATIVE,male,BUS,Other,Hrio,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,26aug1990,23oct2020,0,0,0,0,BCRH,30-39
+47,BUS-HCW-0209-1,3.8091605,POSITIVE,male,BUS,Other,Program Officer,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,07dec1972,23oct2020,0,0,0,0,BCRH,40-49
+43,BUS-HCW-0210-1,6.480916,POSITIVE,female,BUS,Other,M & E,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,26sep1977,23oct2020,0,0,0,0,BCRH,40-49
+29,BUS-HCW-0211-1,1.389313,NEGATIVE,female,BUS,Doctor,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,09jan1991,23oct2020,0,0,0,0,BCRH,18-29
+38,BUS-HCW-0212-1,1.3358779,NEGATIVE,female,BUS,Other,Data Assistant,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,10oct1982,23oct2020,0,0,0,0,BCRH,30-39
+33,BUS-HCW-0213-1,10.641222,POSITIVE,male,BUS,Other,Mobilization Officer,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,08sep1987,23oct2020,0,0,0,0,BCRH,30-39
+35,BUS-HCW-0214-1,.93893135,NEGATIVE,female,BUS,Other,Hts,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,09nov1984,23oct2020,0,0,0,0,BCRH,30-39
+49,BUS-HCW-0215-1,.87022901,NEGATIVE,female,BUS,Other,Project Officer,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,01jan1971,23oct2020,0,0,0,0,BCRH,40-49
+31,BUS-HCW-0216-1,1.2900764,NEGATIVE,male,BUS,Other,Nutritionist,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,03aug1989,23oct2020,0,0,0,0,BCRH,30-39
+51,BUS-HCW-0217-1,3.9694655,POSITIVE,male,BUS,Support Staff,Driver,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,01jan1969,23oct2020,0,0,0,0,BCRH,50-59
+28,BUS-HCW-0218-1,.6412214,NEGATIVE,female,BUS,Support Staff,Social Worker,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,26aug1992,23oct2020,0,0,0,0,BCRH,18-29
+41,BUS-HCW-0219-1,.73282444,NEGATIVE,male,BUS,Support Staff,Casual,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,01jan1979,23oct2020,0,0,0,0,BCRH,40-49
+33,BUS-HCW-0220-1,.70992368,NEGATIVE,female,BUS,Clinical Officer,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,04jan1987,23oct2020,0,0,0,0,BCRH,30-39
+44,BUS-HCW-0221-1,.58778626,NEGATIVE,female,BUS,Clinical Officer,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,20jan1976,23oct2020,0,0,0,0,BCRH,40-49
+32,BUS-HCW-0222-1,1.0458015,NEGATIVE,female,BUS,Clinical Officer,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,01nov1987,23oct2020,0,0,0,0,BCRH,30-39
+44,BUS-HCW-0223-1,.67175573,NEGATIVE,female,BUS,Nurse,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,01jan1976,23oct2020,0,0,0,0,BCRH,40-49
+31,BUS-HCW-0224-1,.54198474,NEGATIVE,male,BUS,Other,Clerical Officer,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,29sep1989,23oct2020,0,0,0,0,BCRH,30-39
+21,BUS-HCW-0225-1,1.2442749,NEGATIVE,female,BUS,Other,Hr Assistant,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,23jan1999,23oct2020,0,0,0,0,BCRH,18-29
+53,BUS-HCW-0226-1,.78625953,NEGATIVE,female,BUS,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,26jan1967,23oct2020,0,0,0,0,BCRH,50-59
+33,BUS-HCW-0227-1,1.778626,NEGATIVE,female,BUS,Other,Hrio,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,07jan1987,23oct2020,0,0,0,0,BCRH,30-39
+58,BUS-HCW-0228-1,.85496187,NEGATIVE,male,BUS,Other,Hrio,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,24jan1962,23oct2020,0,0,0,0,BCRH,50-59
+43,BUS-HCW-0229-1,1.0916032,NEGATIVE,male,BUS,Clinical Officer,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,15may1977,23oct2020,0,0,0,0,BCRH,40-49
+58,BUS-HCW-0230-1,3.8549619,POSITIVE,male,BUS,Other,Clerical Officer,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,02jun1962,23oct2020,0,0,0,0,BCRH,50-59
+27,BUS-HCW-0231-1,1.0076336,NEGATIVE,male,BUS,Other,Hrio,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,03jan1993,23oct2020,0,0,0,0,BCRH,18-29
+51,BUS-HCW-0232-1,1.1526717,NEGATIVE,female,BUS,Nurse,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,17aug1969,23oct2020,0,0,0,0,BCRH,50-59
+30,BUS-HCW-0233-1,.51145041,NEGATIVE,male,BUS,Other,Hrio,prev_swab_taken,Not known,,,,,,,,,,,,,,,,,,,,,19feb1990,23oct2020,0,0,0,0,BCRH,30-39
+26,BUS-HCW-0234-1,.77862597,NEGATIVE,female,BUS,Other,Hrio,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,10oct1994,23oct2020,0,0,0,0,BCRH,18-29
+54,BUS-HCW-0235-1,.61832064,NEGATIVE,male,BUS,Other,Physiotherepy,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,20dec1965,23oct2020,0,0,0,0,BCRH,50-59
+58,BUS-HCW-0236-1,.67938936,NEGATIVE,female,BUS,Other,Hrio,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,28dec1961,23oct2020,0,0,0,0,BCRH,50-59
+59,BUS-HCW-0237-1,.58015269,NEGATIVE,female,BUS,Support Staff,Subordinate Staff,prev_swab_taken,Not known,,,,,,,,,,,,,,,,,,,,22oct2020,09sep1961,23oct2020,0,0,0,0,BCRH,50-59
+30,BUS-HCW-0238-1,.82442755,NEGATIVE,male,BUS,Other,Hts,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,07oct1990,23oct2020,0,0,0,0,BCRH,30-39
+47,BUS-HCW-0239-1,.61832064,NEGATIVE,female,BUS,Other,Hts,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,23may1973,23oct2020,0,0,0,0,BCRH,40-49
+37,BUS-HCW-0240-1,.6564886,NEGATIVE,male,BUS,Other,Hts,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,10feb1983,23oct2020,0,0,0,0,BCRH,30-39
+37,BUS-HCW-0241-1,1.2442749,NEGATIVE,female,BUS,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,13nov1982,23oct2020,0,0,0,0,BCRH,30-39
+30,BUS-HCW-0242-1,.7557252,NEGATIVE,female,BUS,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,14nov1989,23oct2020,0,0,0,0,BCRH,30-39
+30,BUS-HCW-0243-1,.63358778,NEGATIVE,male,BUS,Laboratory,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,23mar1990,23oct2020,0,0,0,0,BCRH,30-39
+43,BUS-HCW-0244-1,1.5801528,NEGATIVE,female,BUS,Nurse,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,28nov1976,23oct2020,0,0,0,0,Kocholia,40-49
+27,BUS-HCW-0245-1,.98473281,NEGATIVE,male,BUS,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,06dec1992,23oct2020,0,0,0,0,Kocholia,18-29
+32,BUS-HCW-0246-1,.9770993,NEGATIVE,male,BUS,Other,Occupational Therapist,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,10oct1988,23oct2020,0,0,0,0,Kocholia,30-39
+38,BUS-HCW-0247-1,.90839696,NEGATIVE,female,BUS,Other,Project Officer,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,31aug1982,23oct2020,0,0,0,0,Kocholia,30-39
+33,BUS-HCW-0248-1,1.0152673,NEGATIVE,male,BUS,Doctor,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,19jan1987,23oct2020,0,0,0,0,Kocholia,30-39
+42,BUS-HCW-0249-1,.93197274,NEGATIVE,female,BUS,Nurse,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,09oct1978,23oct2020,0,0,0,0,Kocholia,40-49
+29,BUS-HCW-0250-1,23.530613,POSITIVE,female,BUS,Other,Health Liasion,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,12dec1990,23oct2020,0,0,0,0,Kocholia,18-29
+29,BUS-HCW-0251-1,.72789115,NEGATIVE,male,BUS,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,03aug1991,23oct2020,0,0,0,0,Kocholia,18-29
+48,BUS-HCW-0252-1,1.170068,NEGATIVE,female,BUS,Nurse,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,27jan1972,23oct2020,0,0,0,0,Kocholia,40-49
+51,BUS-HCW-0253-1,.97959179,NEGATIVE,female,BUS,Nurse,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,29mar1969,23oct2020,0,0,0,0,Kocholia,50-59
+35,BUS-HCW-0254-1,.85714287,NEGATIVE,female,BUS,Other,Mentor Mother,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,28may1985,23oct2020,0,0,0,0,Kocholia,30-39
+30,BUS-HCW-0255-1,.63265306,NEGATIVE,female,BUS,Other,Mentor Mother,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,20jan1990,23oct2020,0,0,0,0,Kocholia,30-39
+43,BUS-HCW-0256-1,.67346936,NEGATIVE,male,BUS,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,27mar1977,23oct2020,0,0,0,0,Kocholia,40-49
+21,BUS-HCW-0257-1,2.8625956,POSITIVE,male,BUS,Support Staff,Casual,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,05mar1999,23oct2020,0,0,0,0,Kocholia,18-29
+35,BUS-HCW-0258-1,1.3740458,NEGATIVE,female,BUS,Other,Physiotherapist,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,14aug1985,23oct2020,0,0,0,0,Kocholia,30-39
+35,BUS-HCW-0259-1,1.7175572,NEGATIVE,female,BUS,Clinical Officer,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,24jun1985,23oct2020,0,0,0,0,Kocholia,30-39
+38,BUS-HCW-0260-1,.87022901,NEGATIVE,male,BUS,Doctor,Radiologist,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,03mar1982,23oct2020,0,0,0,0,Kocholia,30-39
+18,BUS-HCW-0261-1,1,NEGATIVE,male,BUS,Support Staff,Casual,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,25jun2002,23oct2020,0,0,0,0,Kocholia,18-29
+34,BUS-HCW-0262-1,.80152673,NEGATIVE,male,BUS,Pharmacy,Pharm Technologist,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,19feb1986,23oct2020,0,0,0,0,Kocholia,30-39
+24,BUS-HCW-0263-1,.81679392,NEGATIVE,female,BUS,Other,Cash Officer,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,23dec1995,23oct2020,0,0,0,0,Kocholia,18-29
+25,BUS-HCW-0264-1,1.1145039,NEGATIVE,female,BUS,Other,Clerical Officer,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,28jan1995,23oct2020,0,0,0,0,Kocholia,18-29
+57,BUS-HCW-0265-1,1.031746,NEGATIVE,female,BUS,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,24dec1962,23oct2020,0,0,0,0,Kocholia,50-59
+30,BUS-HCW-0266-1,.98412693,NEGATIVE,female,BUS,Clinical Officer,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,21dec1989,23oct2020,0,0,0,0,Kocholia,30-39
+30,BUS-HCW-0267-1,1.1269841,NEGATIVE,male,BUS,Other,Public Health Officer,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,12oct2020,13jan1990,23oct2020,0,0,0,0,Kocholia,30-39
+32,BUS-HCW-0268-1,1.2698412,NEGATIVE,female,BUS,Clinical Officer,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,14apr1988,23oct2020,0,0,0,0,Kocholia,30-39
+43,BUS-HCW-0269-1,.92063487,NEGATIVE,female,BUS,Clinical Officer,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,29sep1977,23oct2020,0,0,0,0,Kocholia,40-49
+22,BUS-HCW-0270-1,.87301588,NEGATIVE,female,BUS,Support Staff,Casual,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,26may1998,23oct2020,0,0,0,0,Kocholia,18-29
+34,BUS-HCW-0271-1,1.2222222,NEGATIVE,male,BUS,Nurse,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,24aug2020,25dec1985,23oct2020,0,0,0,0,Kocholia,30-39
+42,BUS-HCW-0272-1,.73809522,NEGATIVE,female,BUS,Laboratory,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,21jul2020,20oct1978,23oct2020,0,0,0,0,Kocholia,40-49
+37,BUS-HCW-0273-1,1.0873015,NEGATIVE,female,BUS,Doctor,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,11oct1983,23oct2020,0,0,0,0,Kocholia,30-39
+30,BUS-HCW-0274-1,1.3333333,NEGATIVE,female,BUS,Support Staff,Support Staff,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,16may1990,23oct2020,0,0,0,0,Kocholia,30-39
+28,BUS-HCW-0275-1,.6111111,NEGATIVE,male,BUS,Other,Nutritionist,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,07oct1992,23oct2020,0,0,0,0,Kocholia,18-29
+28,BUS-HCW-0276-1,1.9206349,NEGATIVE,female,BUS,Other,Nutritionist,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,05apr1992,23oct2020,0,0,0,0,Kocholia,18-29
+28,BUS-HCW-0277-1,4.0952377,POSITIVE,male,BUS,Nurse,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,10sep1992,23oct2020,0,0,0,0,Kocholia,18-29
+22,BUS-HCW-0278-1,.87301588,NEGATIVE,female,BUS,Other,Nutritionist,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,23dec1997,23oct2020,0,0,0,0,Kocholia,18-29
+23,BUS-HCW-0279-1,1.484127,NEGATIVE,female,BUS,Other,Nutritionist,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,12dec1996,23oct2020,0,0,0,0,Kocholia,18-29
+28,BUS-HCW-0280-1,1.1666666,NEGATIVE,male,BUS,Other,Orthopedics,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,24apr1992,23oct2020,0,0,0,0,Kocholia,18-29
+31,BUS-HCW-0281-1,1.047619,NEGATIVE,female,BUS,Laboratory,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,07sep1989,23oct2020,0,0,0,0,Kocholia,30-39
+30,BUS-HCW-0282-1,1.1507936,NEGATIVE,female,BUS,Support Staff,Support Staff,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,21jul2020,25aug1990,23oct2020,0,0,0,0,Kocholia,30-39
+44,BUS-HCW-0283-1,1.1428571,NEGATIVE,male,BUS,Other,Hts Councelor,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,21jul2020,01jan1976,23oct2020,0,0,0,0,Kocholia,40-49
+37,BUS-HCW-0284-1,1.4523809,NEGATIVE,male,BUS,Other,Health Record Officer ,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,10may1983,23oct2020,0,0,0,0,Kocholia,30-39
+25,BUS-HCW-0285-1,2.2619047,POSITIVE,female,BUS,Support Staff,Casual,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,05nov1994,23oct2020,0,0,0,0,Kocholia,18-29
+52,BUS-HCW-0286-1,.96031743,NEGATIVE,female,BUS,Other,Community Oral Health Officer,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,16feb1968,23oct2020,0,0,0,0,Kocholia,50-59
+22,BUS-HCW-0287-1,1.3809524,NEGATIVE,male,BUS,Support Staff,Casual,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,15dec1997,23oct2020,0,0,0,0,Kocholia,18-29
+34,BUS-HCW-0288-1,.53968257,NEGATIVE,female,BUS,Nurse,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,09aug1986,23oct2020,0,0,0,0,Kocholia,30-39
+43,BUS-HCW-0289-1,1.1349207,NEGATIVE,male,BUS,Support Staff,Chef,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,22aug1977,23oct2020,0,0,0,0,Kocholia,40-49
+24,BUS-HCW-0290-1,.96031743,NEGATIVE,female,BUS,Other,Nutritionist,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,30dec1995,23oct2020,0,0,0,0,Kocholia,18-29
+22,BUS-HCW-0291-1,.98412693,NEGATIVE,female,BUS,Support Staff,Chef,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,28aug1998,23oct2020,0,0,0,0,Kocholia,18-29
+24,BUS-HCW-0292-1,5.4126983,POSITIVE,male,BUS,Support Staff,Chef,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,21oct1996,23oct2020,0,0,0,0,Kocholia,18-29
+22,BUS-HCW-0293-1,28.436506,POSITIVE,female,BUS,Support Staff,Chef,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,01jul2020,28aug1998,23oct2020,0,0,0,0,Kocholia,18-29
+22,BUS-HCW-0294-1,.80158734,NEGATIVE,male,BUS,Other,Biomed Eng,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,13jun1998,23oct2020,0,0,0,0,Kocholia,18-29
+36,BUS-HCW-0295-1,1.3095238,NEGATIVE,female,BUS,Pharmacy,Pharm Tech,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,15aug1984,23oct2020,0,0,0,0,Kocholia,30-39
+45,BUS-HCW-0296-1,1.0396825,NEGATIVE,female,BUS,Nurse,,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,04dec1974,23oct2020,0,0,0,0,Kocholia,40-49
+49,BUS-HCW-0297-1,1.4444444,NEGATIVE,male,BUS,Support Staff,Security Guard,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,22dec1970,23oct2020,0,0,0,0,Kocholia,40-49
+28,BUS-HCW-0298-1,1.0158731,NEGATIVE,female,BUS,Laboratory,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,,21sep1992,23oct2020,0,0,0,0,Kocholia,18-29
+28,BUS-HCW-0299-1,.86507934,NEGATIVE,male,BUS,Clinical Officer,,prev_swab_taken,Negative,,,,,,,,,,,,,,,,,,,,16jun2020,31dec1991,23oct2020,0,0,0,0,Kocholia,18-29
+24,BUS-HCW-0300-1,1.1984127,NEGATIVE,female,BUS,Other,Attachee As A Nutritionist,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,05sep1996,23oct2020,0,0,0,0,Kocholia,18-29
+24,BUS-HCW-0301-1,1.7777778,NEGATIVE,male,BUS,Other,Internal Auditor,no_prev_swab,,,,,,,,,,,,,,,,,,,,,,03mar1996,23oct2020,0,0,0,0,Kocholia,18-29
